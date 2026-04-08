@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-03-06T13:07:08-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/call-for-papers/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/committee/</loc>
+    <lastmod>2024-03-06T14:07:08-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/schedule/</loc>
+    <lastmod>2024-09-17T19:19:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/venue/</loc>
+    <lastmod>2024-03-06T14:07:09-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+    <lastmod>2025-02-06T14:07:09-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/code-of-conduct/</loc>
+    <lastmod>2024-08-28T11:53:49-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>

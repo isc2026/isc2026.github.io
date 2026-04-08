@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ISC 2026</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on ISC 2026</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>//localhost:1313/call-for-papers/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/call-for-papers/</guid>
+      <description>&lt;p&gt;The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security.&lt;/p&gt;&#xA;&lt;p&gt;This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-submissions-solicited&#34;&gt;Types of Submissions Solicited&lt;/h2&gt;&#xA;&lt;p&gt;Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Committee</title>
+      <link>//localhost:1313/committee/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
+      <guid>//localhost:1313/committee/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;General Chair&lt;/strong&gt;&lt;br&gt;&#xA;Guillaume Hiet (CentraleSupélec/Inria)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program Chairs&lt;/strong&gt;&lt;br&gt;&#xA;Joaquin Garcia-Alfaro (Télécom SudParis, Institut Polytechnique de Paris)&lt;br&gt;&#xA;Mehdi Tibouchi (NTT)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;br&gt;&#xA;Zhiqiang Lin (The Ohio State University)&lt;br&gt;&#xA;Javier Lopez (University of Malaga)&lt;br&gt;&#xA;Masahiro Mambo (Kanazawa University)&lt;br&gt;&#xA;Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br&gt;&#xA;Eiji Okamoto (University of Tsukuba)&lt;br&gt;&#xA;Michalis Polychronakis (Stony Brook University)&lt;br&gt;&#xA;Willy Susilo (University of Wollongong)&lt;br&gt;&#xA;Jianying Zhou (Singapore University of Technology and Design)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publications Chair&lt;/strong&gt;\&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publicity Chair&lt;/strong&gt;&lt;br&gt;&#xA;Kaitai Liang (UTU / TU Delft)&lt;br&gt;&#xA;Wenjuan Li (Education University of Hong Kong)&lt;br&gt;&#xA;Thomas Rokicki (CentraleSupélec)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>//localhost:1313/schedule/</link>
+      <pubDate>Tue, 17 Sep 2024 19:19:02 -0400</pubDate>
+      <guid>//localhost:1313/schedule/</guid>
+      <description>&lt;style&gt;&#xA;&#x9;table {&#xA;&#x9;&#x9;border-collapse: collapse;&#xA;&#x9;&#x9;border: none;&#xA;&#x9;&#x9;table-layout: fixed;&#xA;&#x9;&#x9;width: 100%;&#xA;&#x9;}&#xA;&#x9;col.time-col {&#xA;&#x9;&#x9;width: 140px;&#xA;&#x9;}&#xA;&#xA;&#x9;td {&#xA;&#x9;&#x9;border: solid windowtext 1pt;&#xA;&#x9;&#x9;vertical-align: middle;&#xA;&#x9;}&#xA;&#x9;.centered {&#xA;&#x9;&#x9;text-align: center;&#xA;&#x9;}&#xA;&#xA;&#x9;.tdheader {&#xA;&#x9;&#x9;background-color: #f68b3c;&#xA;&#x9;&#x9;text-align: center;&#xA;&#x9;&#x9;vertical-align: middle;&#xA;&#x9;}&#xA;&#x9;.tdheader p {&#xA;&#x9;&#x9;margin: 0;&#xA;&#x9;&#x9;line-height: 1.5;&#xA;&#x9;&#x9;display: flex;&#xA;&#x9;&#x9;justify-content: center;&#xA;&#x9;&#x9;align-items: center;&#xA;&#x9;&#x9;height: 100%;&#xA;&#x9;}&#xA;&#xA;&#x9;td.time-cell {&#xA;&#x9;&#x9;white-space: nowrap;&#xA;&#x9;&#x9;text-align: center;&#xA;&#x9;&#x9;padding: 6px 10px;&#xA;&#x9;}&#xA;&#xA;&#x9;td.event-cell {&#xA;&#x9;&#x9;white-space: normal;&#xA;&#x9;&#x9;overflow: visible;&#xA;&#x9;&#x9;text-overflow: clip;&#xA;&#x9;&#x9;text-align: center;&#xA;&#x9;&#x9;vertical-align: middle;&#xA;&#x9;&#x9;padding: 6px 12px;&#xA;&#x9;&#x9;line-height: 1.35;&#xA;&#x9;}&#xA;&#xA;&#x9;td.event-cell p {&#xA;&#x9;&#x9;margin: 0;&#xA;&#x9;}&#xA;&#xA;&#x9;.timezone {&#xA;&#x9;&#x9;background-color: #0070c0;&#xA;&#x9;&#x9;color: #fff;&#xA;&#x9;}&#xA;&#x9;.block-crypto {&#xA;&#x9;&#x9;background-color: #f7caac;&#xA;&#x9;}&#xA;&#x9;.keynote {&#xA;&#x9;&#x9;background-color: #5ad0f5;&#xA;&#x9;}&#xA;&#x9;.break {&#xA;&#x9;&#x9;background-color: #ffe599;&#xA;&#x9;}&#xA;&#x9;.ex1t {&#xA;&#x9;&#x9;background-color: #f7caac;&#xA;&#x9;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div&#xA;&#x9;align=&#34;center&#34;&#xA;&#x9;style=&#34;&#xA;&#x9;&#x9;margin: 0 0 8pt 0;&#xA;&#x9;&#x9;text-align: justify;&#xA;&#x9;&#x9;line-height: 107%;&#xA;&#x9;&#x9;font-size: 16px;&#xA;&#x9;&#34;&#xA;&gt;&#xA;&#x9;&lt;table&gt;&#xA;&#x9;&#x9;&lt;colgroup&gt;&#xA;&#x9;&#x9;&#x9;&lt;col class=&#34;time-col&#34; /&gt;&#xA;&#x9;&#x9;&#x9;&lt;col /&gt;&#xA;&#x9;&#x9;&lt;/colgroup&gt;&#xA;&#x9;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;td colspan=&#34;2&#34; class=&#34;tdheader&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;p class=&#34;centered&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>//localhost:1313/venue/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
+      <guid>//localhost:1313/venue/</guid>
+      <description>&lt;p&gt;ISC&#39;26 will be held in the Inria convention center at the &lt;a href=&#34;https://www.inria.fr/en/inria-centre-rennes-university&#34;&gt;Inria center of the University of Rennes&lt;/a&gt;, see the location of the &lt;a href=&#34;https://www.inria.fr/en/how-reach-inria-centre-rennes-university&#34;&gt;venue&lt;/a&gt; here.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Address&lt;/em&gt;: Campus universitaire de Beaulieu, Avenue du général Leclerc, 35042 Rennes Cedex, France&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nearby Airports:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.rennes.aeroport.fr/en#&#34;&gt;Rennes Airport (RNS)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.parisaeroport.fr/en&#34;&gt;Paris Charles de Gaule &lt;/a&gt; and then connexion using high-speed train (TGV) from CDG to Rennes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transportation:&lt;/strong&gt; Taxi, Bus, Metro (Station: Beaulieu - Université (Line 2))&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Visitor parking is available in the 600th Anniversary Hall parking garage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Thu, 06 Feb 2025 14:07:09 -0500</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Registration, Invitation letter, etc. please send an email to&#xA;Local Organization Team &lt;a href=&#34;mailto:local-isc2026@inria.fr&#34;&gt;local-isc2026@inria.fr&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Issues about the paper submission, please contact the PC chairs: &lt;a href=&#34;isc2026@easychair.org&#34;&gt;isc2026@easychair.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ISC Code of Conduct</title>
+      <link>//localhost:1313/code-of-conduct/</link>
+      <pubDate>Wed, 28 Aug 2024 11:53:49 -0400</pubDate>
+      <guid>//localhost:1313/code-of-conduct/</guid>
+      <description>&lt;p&gt;Thank you for attending ISC’26. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our Expectations: Be Inclusive, Considerate, Respectful, and Kind&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ISC is a community that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;&#xA;&lt;li&gt;Always conduct yourself professionally, whether onsite, online, or when using social media, including the ISC hashtag.&lt;/li&gt;&#xA;&lt;li&gt;A comfortable and safe environment is key to productivity and creativity. Your actions can impact others, so please be respectful of differing opinions.&lt;/li&gt;&#xA;&lt;li&gt;Harassment and exclusionary behaviors are unacceptable. This includes, but is not limited to, threats of violence; discriminatory jokes or language; sharing sexually explicit or violent material; personal insults, particularly those using racist or sexist terms; unwelcome sexual attention; and advocating for or encouraging any of these behaviors. If someone asks you to stop something, you are expected to comply immediately.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Who is Covered Under This Code of Conduct?&lt;/strong&gt;&lt;br&gt;&#xA;This Code of Conduct applies to all attendees, speakers, sponsors, staff, and volunteers at our events. ISC staff will enforce this Code throughout the event and expects cooperation from all participants. For more information, refer to the &lt;a href=&#34;https://www.springernature.com/gp/authors/book-authors-code-of-conduct&#34;&gt;Book Authors&amp;rsquo; Code of Conduct&lt;/a&gt; from Springer. If you need to report behavior that violates this Code, please inform staff at the registration desk or email &lt;a href=&#34;mailto:kevin.koo@skku.edu&#34;&gt;kevin.koo@skku.edu&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

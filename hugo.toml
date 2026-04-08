@@ -1,0 +1,22 @@
+theme = 'mainroad'
+title = 'ISC 2026'
+
+baseURL = "https://isc2026.github.io/"
+[Params.style.vars]
+  highlightColor = "#166bc6"
+
+[Params.logo]
+  image = "img/SUSHI.png"
+  title = false
+  subtitle = false
+
+[Params]
+copyright = "ISC 2026"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+            [markup.goldmark.renderer]
+      unsafe = true

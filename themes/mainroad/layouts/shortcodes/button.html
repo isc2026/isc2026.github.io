@@ -1,0 +1,8 @@
+<p>
+	<button
+		class="{{ .Get `class` }}"
+		onclick="window.open('{{ .Get `href` }}', '_blank')"
+	>
+		{{ .Inner }}
+	</button>
+</p>

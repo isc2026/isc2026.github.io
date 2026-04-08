@@ -1,0 +1,56 @@
+{{ define "header" }}
+<header class="header">
+	<div class="container header__container">{{ partial "logo.html" . }}</div>
+</header>
+{{ end }} {{ define "footer" }}{{ end }} {{ define "sidebar" }}{{ end }} {{
+define "main" }}
+<main class="wrapper">
+	<header class="post__header">
+		<h1 class="post__title">Registration Form</h1>
+	</header>
+
+	<div class="content main__content clearfix">
+		{{ .Content }}
+
+		<form method="POST" action="http://localhost:8000">
+			<label
+				>Name:<br />
+				<input type="text" name="name" required /> </label
+			><br /><br />
+
+			<label
+				>Paper ID (if applicable):<br />
+				<input type="text" name="paper_id" placeholder="e.g. #1234" /> </label
+			><br /><br />
+
+			<label
+				>Affiliation:<br />
+				<input type="text" name="affiliation" required /> </label
+			><br /><br />
+
+			<label
+				>Email:<br />
+				<input type="email" name="email" required /> </label
+			><br /><br />
+
+			<label>Category:</label><br />
+			<label style="margin-right: 20px">
+				<input type="radio" name="category" value="student" required /> Student
+			</label>
+			<label>
+				<input type="radio" name="category" value="regular" /> Regular </label
+			><br /><br />
+
+			<label>Registration Type:</label><br />
+			<label style="margin-right: 40px">
+				<input type="radio" name="registration" value="early" required /> Early
+			</label>
+			<label>
+				<input type="radio" name="registration" value="late" /> Late </label
+			><br /><br />
+
+			<button type="submit" class="btn">Proceed to Payment</button>
+		</form>
+	</div>
+</main>
+{{ end }}

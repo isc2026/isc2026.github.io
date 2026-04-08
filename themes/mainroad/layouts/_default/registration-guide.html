@@ -1,0 +1,14 @@
+{{ define "header" }}
+<header class="header">
+	<div class="container header__container">{{ partial "logo.html" . }}</div>
+</header>
+{{ end }} {{ define "footer" }}{{ end }} {{ define "sidebar" }}{{ end }} {{
+define "main" }}
+<main class="wrapper">
+	<header class="post__header">
+		<h1 class="post__title">Registration Guide</h1>
+	</header>
+
+	<div class="content main__content clearfix">{{ .Content }}</div>
+</main>
+{{ end }}

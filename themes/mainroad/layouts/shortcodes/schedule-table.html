@@ -1,0 +1,178 @@
+<style>
+	table {
+		border-collapse: collapse;
+		border: none;
+		table-layout: fixed;
+		width: 100%;
+	}
+	col.time-col {
+		width: 140px;
+	}
+
+	td {
+		border: solid windowtext 1pt;
+		vertical-align: middle;
+	}
+	.centered {
+		text-align: center;
+	}
+
+	.tdheader {
+		background-color: #f68b3c;
+		text-align: center;
+		vertical-align: middle;
+	}
+	.tdheader p {
+		margin: 0;
+		line-height: 1.5;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100%;
+	}
+
+	td.time-cell {
+		white-space: nowrap;
+		text-align: center;
+		padding: 6px 10px;
+	}
+
+	td.event-cell {
+		white-space: normal;
+		overflow: visible;
+		text-overflow: clip;
+		text-align: center;
+		vertical-align: middle;
+		padding: 6px 12px;
+		line-height: 1.35;
+	}
+
+	td.event-cell p {
+		margin: 0;
+	}
+
+	.timezone {
+		background-color: #0070c0;
+		color: #fff;
+	}
+	.block-crypto {
+		background-color: #f7caac;
+	}
+	.keynote {
+		background-color: #5ad0f5;
+	}
+	.break {
+		background-color: #ffe599;
+	}
+	.ex1t {
+		background-color: #f7caac;
+	}
+</style>
+
+<div
+	align="center"
+	style="
+		margin: 0 0 8pt 0;
+		text-align: justify;
+		line-height: 107%;
+		font-size: 16px;
+	"
+>
+	<table>
+		<colgroup>
+			<col class="time-col" />
+			<col />
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="2" class="tdheader">
+					<p class="centered">{{ site.Data.schedule.day1.title }}</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="centered time-cell"><b>Time (ET)</b></td>
+				<td class="centered"><b>Event</b></td>
+			</tr>
+			{{ range site.Data.schedule.day1.content }}
+			<tr>
+				<td class="centered time-cell">{{ .time }}</td>
+				<td class="centered event-cell {{ .class }}">
+					{{ .detail|markdownify }}
+				</td>
+			</tr>
+			{{ end }}
+		</tbody>
+	</table>
+</div>
+
+<div
+	align="center"
+	style="
+		margin: 0 0 8pt 0;
+		text-align: justify;
+		line-height: 107%;
+		font-size: 16px;
+	"
+>
+	<table>
+		<colgroup>
+			<col class="time-col" />
+			<col />
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="2" class="tdheader">
+					<p class="centered">{{ site.Data.schedule.day2.title }}</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="centered time-cell"><b>Time (ET)</b></td>
+				<td class="centered"><b>Event</b></td>
+			</tr>
+			{{ range site.Data.schedule.day2.content }}
+			<tr>
+				<td class="centered time-cell">{{ .time }}</td>
+				<td class="centered event-cell {{ .class }}">
+					{{ .detail|markdownify }}
+				</td>
+			</tr>
+			{{ end }}
+		</tbody>
+	</table>
+</div>
+
+<div
+	align="center"
+	style="
+		margin: 0 0 8pt 0;
+		text-align: justify;
+		line-height: 107%;
+		font-size: 16px;
+	"
+>
+	<table>
+		<colgroup>
+			<col class="time-col" />
+			<col />
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="2" class="tdheader">
+					<p class="centered">{{ site.Data.schedule.day3.title }}</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="centered time-cell"><b>Time (ET)</b></td>
+				<td class="centered"><b>Event</b></td>
+			</tr>
+			{{ range site.Data.schedule.day3.content }}
+			<tr>
+				<td class="centered time-cell">{{ .time }}</td>
+				<td class="centered event-cell {{ .class }}">
+					{{ .detail|markdownify }}
+				</td>
+			</tr>
+			{{ end }}
+		</tbody>
+	</table>
+</div>
