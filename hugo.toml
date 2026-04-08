@@ -10,6 +10,10 @@ baseURL = "https://isc2026.github.io/"
   title = false
   subtitle = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [Params]
 copyright = "ISC 2026"
 
