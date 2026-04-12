@@ -30,8 +30,8 @@ Paria Shirani (University of Ottawa, Canada)\
 **Program Committee**\
 TBA
 
-**Web Team**\
+**Web Chair**\
 Thomas Rokicki (CentraleSupélec)
 
-**Local Organization Team**\
+**Local Organization**\
 Lydie Mabil (Inria)
