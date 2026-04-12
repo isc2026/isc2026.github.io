@@ -9,7 +9,7 @@ weight = 3
 Guillaume Hiet (CentraleSupélec/Inria)
 
 **Program Chairs**\
-Joaquin Garcia-Alfaro (Télécom SudParis, Institut Polytechnique de Paris)\
+Joaquin Garcia-Alfaro (Institut Polytechnique de Paris)\
 Mehdi Tibouchi (NTT)
 
 **Steering Committee**\
