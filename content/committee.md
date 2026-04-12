@@ -22,15 +22,13 @@ Michalis Polychronakis (Stony Brook University)\
 Willy Susilo (University of Wollongong)\
 Jianying Zhou (Singapore University of Technology and Design)
 
-**Publications Chair**\
-
 **Publicity Chair**\
 Kaitai Liang (UTU / TU Delft)\
 Wenjuan Li (Education University of Hong Kong)\
 Thomas Rokicki (CentraleSupélec)
 
 **Program Committee**\
-
+TBA
 
 **Web Team**\
 Thomas Rokicki (CentraleSupélec)
