@@ -1,0 +1,13 @@
+{{ $lat := .Get "lat" }}
+{{ $lon := .Get "lon" }}
+{{ $bbox := .Get "bbox" }}
+
+<iframe
+  width="{{ .Get "width" | default "100%" }}"
+  height="{{ .Get "height" | default "350" }}"
+  style="border:1px solid rgb(60,96,214)"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.openstreetmap.org/export/embed.html?bbox={{ $bbox | safeURL }}&layer=mapnik&marker={{ $lat }},{{ $lon }}">
+</iframe>
+</small>
