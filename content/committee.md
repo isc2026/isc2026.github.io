@@ -25,7 +25,7 @@ Jianying Zhou (Singapore University of Technology and Design)
 **Publicity Chairs**\
 Kaitai Liang (UTU / TU Delft)\
 Wenjuan Li (Education University of Hong Kong)\
-Paria Shirani (University of Ottawa, Canada)\
+Paria Shirani (University of Ottawa, Canada)
 
 **Program Committee**\
 TBA
