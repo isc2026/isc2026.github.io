@@ -6,7 +6,7 @@ baseURL = "https://isc2026.github.io/"
   highlightColor = "#166bc6"
 
 [Params.logo]
-  image = "img/SUSHI.png"
+  image = "img/banner.png"
   title = false
   subtitle = false
 
