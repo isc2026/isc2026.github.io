@@ -16,7 +16,7 @@ Mehdi Tibouchi (NTT)
 Zhiqiang Lin (The Ohio State University)\
 Javier Lopez (University of Malaga)\
 Masahiro Mambo (Kanazawa University)\
-Nicky Mouha (Strativia & NIST Associate, USA)\
+Hyungjoon Koo (Sungkyunkwan University)\
 Eiji Okamoto (University of Tsukuba)\
 Michalis Polychronakis (Stony Brook University)\
 Willy Susilo (University of Wollongong)\
@@ -25,7 +25,7 @@ Jianying Zhou (Singapore University of Technology and Design)
 **Publicity Chairs**\
 Kaitai Liang (UTU / TU Delft)\
 Wenjuan Li (Education University of Hong Kong)\
-Paria Shirani (University of Ottawa, Canada)
+Paria Shirani (University of Ottawa)
 
 **Program Committee**\
 TBA
