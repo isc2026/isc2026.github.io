@@ -9,6 +9,14 @@ The Information Security Conference (ISC) is an annual international conference 
 
 This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.
 
+## Important Dates
+
+Submission Deadline: **June 22 (11.59pm AoE)**\
+Notification: **August 31**\
+Camera-Ready Deadline: **September 14**\
+Conference: **October 28-30, FR**
+
+
 ## Types of Submissions Solicited
 
 Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:
@@ -35,13 +43,6 @@ Papers on all technical aspects of information security, cryptography, and priva
 | embedded platforms           | multi-party computation          | vulnerabilities                |
 | fault attacks                | networks security                | web security                   |
 | fingerprinting               | OS and systems security          | zero-knowledge proofs          |
-
-## Deadlines
-
-Submission Deadline: **June 22 (11.59pm AoE)**\
-Notification: **August 31**\
-Camera-Ready Deadline: **September 14**\
-Conference: **October 28-30, FR**
 
 ## Best Paper Award
 
