@@ -13,10 +13,10 @@ Joaquin Garcia-Alfaro (Institut Polytechnique de Paris)\
 Mehdi Tibouchi (NTT)
 
 **Steering Committee**\
+Hyungjoon Koo (Sungkyunkwan University)\
 Zhiqiang Lin (The Ohio State University)\
 Javier Lopez (University of Malaga)\
 Masahiro Mambo (Kanazawa University)\
-Hyungjoon Koo (Sungkyunkwan University)\
 Eiji Okamoto (University of Tsukuba)\
 Michalis Polychronakis (Stony Brook University)\
 Willy Susilo (University of Wollongong)\
