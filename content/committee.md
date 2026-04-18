@@ -36,7 +36,7 @@ Wonseok Choi, Purdue University / Georgia Institute of Technology, USA\
 José María de Fuentes, Carlos III University of Madrid, Spain\
 Guillaume Doyen, IMT Atlantique, France\
 Lorena Gonzalez-Manzano, Universidad Carlos III de Madrid, Spain\
-Bruce M. Kapron, University of Victoria, Canda\
+Bruce M. Kapron, University of Victoria, Canada\
 Evangelos Kranakis, Carleton University, Canada\
 Hyung Tae Lee, Chung-Ang University, South Korea\
 Olivier Levillain, Télécom SudParis, France\
