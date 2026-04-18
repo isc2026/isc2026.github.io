@@ -6,11 +6,11 @@ weight = 3
 +++
 
 **General Chair**\
-Guillaume Hiet, CentraleSupélec/Inria, France\
+Guillaume Hiet, CentraleSupélec/Inria, France
 
 **Program Chairs**\
 Joaquin Garcia-Alfaro, Institut Polytechnique de Paris, France\
-Mehdi Tibouchi, NTT Social Informatics Laboratories, Japan\
+Mehdi Tibouchi, NTT Social Informatics Laboratories, Japan
 
 **Steering Committee**\
 Hyungjoon Koo, Sungkyunkwan University, South Korea\
@@ -20,12 +20,12 @@ Masahiro Mambo, Kanazawa University, Japan\
 Eiji Okamoto, University of Tsukuba, Japan\
 Michalis Polychronakis, Stony Brook University, USA\
 Willy Susilo, University of Wollongong, Australia\
-Jianying Zhou, SUTD, Singapore\
+Jianying Zhou, SUTD, Singapore
 
 **Publicity Chairs**\
 Kaitai Liang, University of Turku, Finland\
 Wenjuan Li, Education University of Hong Kong, China\
-Paria Shirani, University of Ottawa, Canada\
+Paria Shirani, University of Ottawa, Canada
 
 **Program Committee**\
 Isaac Agudo-Ruiz, University of Malaga, Spain\
@@ -55,11 +55,11 @@ Yuntao Wang, The University of Electro-Communications, Japan\
 Kyosuke Yamashita, Osaka University, Japan\
 Runzhi Zeng, University of Kassel, Germany\
 Jianying Zhou, SUTD, Singapore\
-(more to be announced)\
+(more to be announced)
 
 
 **Web Chair**\
-Thomas Rokicki, CentraleSupélec, France\
+Thomas Rokicki, CentraleSupélec, France
 
 **Local Organization**\
-Lydie Mabil, Inria, France\
+Lydie Mabil, Inria, France
