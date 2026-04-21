@@ -22,6 +22,9 @@ Michalis Polychronakis, Stony Brook University, USA\
 Willy Susilo, University of Wollongong, Australia\
 Jianying Zhou, SUTD, Singapore
 
+**Publications Chair**\
+Rubén Salvador, CentraleSupélec, France
+
 **Publicity Chairs**\
 Kaitai Liang, University of Turku, Finland\
 Wenjuan Li, Education University of Hong Kong, China\
@@ -77,6 +80,7 @@ Jianying Zhou, SUTD, Singapore\
 
 **Web Chair**\
 Thomas Rokicki, CentraleSupélec, France
+
 
 **Local Organization**\
 Lydie Mabil, Inria, France
