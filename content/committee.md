@@ -66,7 +66,9 @@ Mahdi Sedaghat, KU Leuven, Belgium\
 Basavesh Ammanaghatta Shivakumar, Virginia Tech, USA\
 Chao Sun, Southeast University, Bangladesh\
 Abdul Rahman Taleb, ANSSI, France\
+Élise Tasso, Tohoku University\
 Vicenç Torra, Umeå University, Sweden\
+Rei Ueno, Kyoto University\
 Praveen Kumar Vadnala, PQShield, UK\
 Giorgos Vasiliadis, Hellenic Mediterranean University and FORTH, Greece\
 Emmanouil Vasilomanolakis, Technical University of Denmark, Denmark\
