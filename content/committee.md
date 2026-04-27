@@ -35,6 +35,7 @@ Isaac Agudo-Ruiz, University of Malaga, Spain\
 Abdelrahaman Aly, Technology Innovation Institute, UAE\
 Elena Andreeva, TU Wien, Austria\
 Sarani Bhattacharya, IIT Kharagpur, India\
+Guillaume Bonfante, Université de Lorraine\
 Avik Chakraborti, IAI TCG CREST, India\
 Hyunwoo Choi, Sungshin Women’s University, South Korea\
 Wonseok Choi, Purdue University / Georgia Institute of Technology, USA\
