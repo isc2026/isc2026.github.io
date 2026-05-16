@@ -34,22 +34,33 @@ Paria Shirani, University of Ottawa, Canada
 Isaac Agudo-Ruiz, University of Malaga, Spain\
 Abdelrahaman Aly, Technology Innovation Institute, UAE\
 Elena Andreeva, TU Wien, Austria\
+Shivam Bhasin, NTU, Singapore\
 Sarani Bhattacharya, IIT Kharagpur, India\
-Guillaume Bonfante, Université de Lorraine\
+Guillaume Bonfante, Université de Lorraine, France\
 Avik Chakraborti, IAI TCG CREST, India\
 Hyunwoo Choi, Sungshin Women’s University, South Korea\
 Wonseok Choi, Purdue University / Georgia Institute of Technology, USA\
+Bjorn De Sutter, Ghent University, Belgium\
 José María de Fuentes, Carlos III University of Madrid, Spain\
+Giuseppe Antonio Di Luna, University of Rome Sapienza, Italy\
 Antreas Dionysiou, Frederick University, Cyprus\
 Guillaume Doyen, IMT Atlantique, France\
+François Gérard, Universität der Bundeswehr München, Germany\
 Lorena Gonzalez-Manzano, Universidad Carlos III de Madrid, Spain\
+Sylvain Guilley, Secure IC, France\
+Clément Hoffmann, NTT Social Informatics Laboratories, Japan\
+Hector Hougaard, Hvidovre Ungdomsskole, Denmark\
+Kévin Huguenin, EPFL, Switzerland\
+Akiko Inoue, NEC, Japan\
 Tetsu Iwata, Nagoya University, Japan\
 Chenglu Jin, CWI Amsterdam, The Netherlands\
 Bruce M. Kapron, University of Victoria, Canada\
 Seongkwang Kim, Samsung SDS, South Korea\
+Seulbae Kim, Pohang University of Science and Technology, South Korea\
 Evangelos Kranakis, Carleton University, Canada\
 Mario Larangeira, Input Output, Japan\
 Hyung Tae Lee, Chung-Ang University, South Korea\
+Sangho Lee, Microsoft Research, USA\
 Olivier Levillain, Télécom SudParis, France\
 Hilder Vitor Lima Pereira, University of Campinas, Brazil\
 Romaric Ludinard, IMT Atlantique, France\
@@ -62,24 +73,27 @@ Pantaleone Nespoli, University of Murcia, Spain\
 Cristina Pérez-Solà, Universitat Autònoma de Barcelona, Spain\
 Chen Qian, Shandong University, China\
 Matthieu Rambaud, Télécom Paris, France\
+Junghwan Rhee, University of Central Oklahoma, USA\
 Julián Salas, Autonomous University of Barcelona, Spain\
 Mahdi Sedaghat, KU Leuven, Belgium\
 Basavesh Ammanaghatta Shivakumar, Virginia Tech, USA\
+Amit Kumar Sikder, Iowa State University, USA\
 Chao Sun, Southeast University, Bangladesh\
 Abdul Rahman Taleb, ANSSI, France\
-Élise Tasso, Tohoku University\
+Élise Tasso, Tohoku University, Japan\
 Vicenç Torra, Umeå University, Sweden\
-Rei Ueno, Kyoto University\
+Rei Ueno, Kyoto University, Japan\
 Praveen Kumar Vadnala, PQShield, UK\
 Giorgos Vasiliadis, Hellenic Mediterranean University and FORTH, Greece\
 Emmanouil Vasilomanolakis, Technical University of Denmark, Denmark\
+Alexandre Wallet, PQShield, UK\
 Yuntao Wang, The University of Electro-Communications, Japan\
+Reda Yaich, IRT SystemX, France\
 Kyosuke Yamashita, Osaka University, Japan\
+Guomin Yang, Singapore Management University, Singapore\
 Yves Younan, Cisco Talos, USA\
 Runzhi Zeng, University of Kassel, Germany\
-Jianying Zhou, SUTD, Singapore\
-(more to be announced)
-
+Jianying Zhou, SUTD, Singapore
 
 **Web Chair**\
 Thomas Rokicki, CentraleSupélec, France
