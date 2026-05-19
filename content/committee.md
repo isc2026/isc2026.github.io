@@ -45,6 +45,7 @@ José María de Fuentes, Carlos III University of Madrid, Spain\
 Giuseppe Antonio Di Luna, University of Rome Sapienza, Italy\
 Antreas Dionysiou, Frederick University, Cyprus\
 Guillaume Doyen, IMT Atlantique, France\
+Antonio Flórez-Gutiérrez, NTT Social Informatics Laboratories\
 François Gérard, Universität der Bundeswehr München, Germany\
 Lorena Gonzalez-Manzano, Universidad Carlos III de Madrid, Spain\
 Sylvain Guilley, Secure IC, France\
