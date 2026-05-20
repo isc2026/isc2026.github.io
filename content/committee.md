@@ -31,7 +31,7 @@ Wenjuan Li, Education University of Hong Kong, China\
 Paria Shirani, University of Ottawa, Canada
 
 **Program Committee**\
-Isaac Agudo-Ruiz, University of Malaga, Spain\
+Isaac Agudo, University of Malaga, Spain\
 Abdelrahaman Aly, Technology Innovation Institute, UAE\
 Elena Andreeva, TU Wien, Austria\
 Shivam Bhasin, NTU, Singapore\
@@ -39,7 +39,7 @@ Sarani Bhattacharya, IIT Kharagpur, India\
 Guillaume Bonfante, Université de Lorraine, France\
 Avik Chakraborti, IAI TCG CREST, India\
 Hyunwoo Choi, Sungshin Women’s University, South Korea\
-Wonseok Choi, Purdue University / Georgia Institute of Technology, USA\
+Wonseok Choi, DGIST, USA\
 Bjorn De Sutter, Ghent University, Belgium\
 José María de Fuentes, Carlos III University of Madrid, Spain\
 Giuseppe Antonio Di Luna, University of Rome Sapienza, Italy\
@@ -65,7 +65,7 @@ Sangho Lee, Microsoft Research, USA\
 Olivier Levillain, Télécom SudParis, France\
 Hilder Vitor Lima Pereira, University of Campinas, Brazil\
 Romaric Ludinard, IMT Atlantique, France\
-Michele Marazzi, ABB Research, USA\
+Michele Marazzi, ABB Research, Switzerland\
 Jean-Yves Marion, LORIA, France\
 Omid Mir, AIT Austrian Institute Of Technology, Austria\
 Mustafa A. Mustafa, The University of Manchester, UK\
@@ -84,7 +84,7 @@ Abdul Rahman Taleb, ANSSI, France\
 Élise Tasso, Tohoku University, Japan\
 Vicenç Torra, Umeå University, Sweden\
 Rei Ueno, Kyoto University, Japan\
-Praveen Kumar Vadnala, PQShield, UK\
+Praveen Kumar Vadnala, PQShield BV, The Netherlands\
 Giorgos Vasiliadis, Hellenic Mediterranean University and FORTH, Greece\
 Emmanouil Vasilomanolakis, Technical University of Denmark, Denmark\
 Alexandre Wallet, PQShield, UK\
