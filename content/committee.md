@@ -39,7 +39,7 @@ Sarani Bhattacharya, IIT Kharagpur, India\
 Guillaume Bonfante, Université de Lorraine, France\
 Avik Chakraborti, IAI TCG CREST, India\
 Hyunwoo Choi, Sungshin Women’s University, South Korea\
-Wonseok Choi, DGIST, USA\
+Wonseok Choi, Daegu Gyeongbuk Institute of Science and Technology, South Korea\
 Bjorn De Sutter, Ghent University, Belgium\
 José María de Fuentes, Carlos III University of Madrid, Spain\
 Giuseppe Antonio Di Luna, University of Rome Sapienza, Italy\
