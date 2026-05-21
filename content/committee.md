@@ -56,7 +56,7 @@ Akiko Inoue, NEC, Japan\
 Tetsu Iwata, Nagoya University, Japan\
 Chenglu Jin, CWI Amsterdam, The Netherlands\
 Bruce M. Kapron, University of Victoria, Canada\
-Seongkwang Kim, Samsung SDS, South Korea\
+Seongkwang Kim, Korea University, South Korea\
 Seulbae Kim, Pohang University of Science and Technology, South Korea\
 Evangelos Kranakis, Carleton University, Canada\
 Mario Larangeira, Input Output, Japan\
