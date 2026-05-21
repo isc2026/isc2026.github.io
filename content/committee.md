@@ -43,7 +43,7 @@ Wonseok Choi, Daegu Gyeongbuk Institute of Science and Technology, South Korea\
 Bjorn De Sutter, Ghent University, Belgium\
 José María de Fuentes, Carlos III University of Madrid, Spain\
 Giuseppe Antonio Di Luna, University of Rome Sapienza, Italy\
-Antreas Dionysiou, Frederick University, Cyprus\
+Antreas Dionysiou, Delft University of Technology, The Netherlands\
 Guillaume Doyen, IMT Atlantique, France\
 Antonio Flórez-Gutiérrez, NTT Social Informatics Laboratories, Japan\
 François Gérard, Universität der Bundeswehr München, Germany\
