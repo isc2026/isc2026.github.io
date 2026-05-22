@@ -66,7 +66,7 @@ Olivier Levillain, Télécom SudParis, France\
 Hilder Vitor Lima Pereira, University of Campinas, Brazil\
 Romaric Ludinard, IMT Atlantique, France\
 Michele Marazzi, ABB Research, Switzerland\
-Jean-Yves Marion, LORIA, France\
+Jean-Yves Marion, Université de Lorraine, Loria, France\
 Omid Mir, AIT Austrian Institute Of Technology, Austria\
 Mustafa A. Mustafa, The University of Manchester, UK\
 Guillermo Navarro-Arribas, Universitat Autònoma de Barcelona, Spain\
