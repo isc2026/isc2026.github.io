@@ -48,7 +48,7 @@ Guillaume Doyen, IMT Atlantique, France\
 Antonio Flórez-Gutiérrez, NTT Social Informatics Laboratories, Japan\
 François Gérard, Universität der Bundeswehr München, Germany\
 Lorena Gonzalez-Manzano, Universidad Carlos III de Madrid, Spain\
-Sylvain Guilley, Secure IC, France\
+Sylvain Guilley, Secure-IC, France\
 Clément Hoffmann, NTT Social Informatics Laboratories, Japan\
 Hector Hougaard, Hvidovre Ungdomsskole, Denmark\
 Kévin Huguenin, EPFL, Switzerland\
