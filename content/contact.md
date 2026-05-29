@@ -9,4 +9,4 @@ Contact for:
 
 -   Registration, Invitation letter, etc. please send an email to
     Local Organization Team [local-isc2026@inria.fr](mailto:local-isc2026@inria.fr).
--   Issues about the paper submission, please contact the PC chairs: [isc2026@easychair.org](isc2026@easychair.org)
+-   Issues about the paper submission, please contact the PC chairs: [isc2026@easychair.org](mailto:isc2026@easychair.org)
