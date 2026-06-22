@@ -25,6 +25,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   Submission deadline has been extended to 02/07/2026 AoE!
 -   [CFP](https://isc2026.github.io/call-for-papers/) is available
 -   [Linkedin](https://www.linkedin.com/company/isc-conference/) page is online! \[04/2026\]
 -   Website is up! \[04/2026\]
@@ -99,9 +100,10 @@ A list of past proceedings is available through
 Further information about past ISC events is available through
 [DBLP](https://dblp.uni-trier.de/db/conf/isw/index.html).
 
+
 <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <img src="/img/CentraleSupelec.png" alt="CentraleSupélec Logo" width="380"/>
   <img src="/img/inria.jpg" alt="Inria Logo" width="120" style="margin-left: 10px;"/>
   <img src="/img/irisa.png" alt="IRISA Logo" width="220" style="margin-left: 10px;"/>
-
+  <img src="/img/CNRS.svg" alt="CNRS logo" width="80" style="margin-left: 10px;"/>
 </div>

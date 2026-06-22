@@ -101,4 +101,5 @@ Thomas Rokicki, CentraleSupélec, France
 
 
 **Local Organization**\
-Lydie Mabil, Inria, France
+Lydie Mabil, Inria, France\
+Pierre Wilke, CentraleSupélec, France
