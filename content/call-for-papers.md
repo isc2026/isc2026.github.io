@@ -39,7 +39,7 @@ Papers on all technical aspects of information security, cryptography, and priva
 
 ## Deadlines
 
-Submission Deadline: <s>June 22 (11.59pm AoE)</s>   **July 02 (11.59pm AoE)**\
+Submission Deadline: <s>June 22 (11.59pm AoE)</s>   **July 02 (11.59pm AoE, Firm)**\
 Notification: **August 31**\
 Camera-Ready Deadline: **September 14**\
 Conference: **October 28-30, FR**
