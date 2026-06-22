@@ -25,6 +25,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   Submission deadline has been extended to 02/07/2026 AoE!
 -   [CFP](https://isc2026.github.io/call-for-papers/) is available
 -   [Linkedin](https://www.linkedin.com/company/isc-conference/) page is online! \[04/2026\]
 -   Website is up! \[04/2026\]
