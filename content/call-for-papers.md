@@ -53,6 +53,23 @@ Accepted papers will be judged and ranked by the Program Committee. The best pap
 
 Submissions must be original work and may not be under submission to another journal or conference with proceedings at the time of review. Submissions must be in the [Springer Lecture Notes in Computer Science (LNCS)](http://www.springer.com/gp/computer-science/lncs) style, with the default margins and fonts, but with the addition of page numbers (e.g., by adding \\pagestyle{plain}). They are limited to 16 pages excluding bibliography and appendices, and to 20 pages including bibliography and appendices. Optionally, any amount of clearly marked supplementary material may be supplied, following the main body of the paper, but reviewers are not required to read this supplementary material and submissions are expected to be intelligible and complete without it.
 
-Authors should consult Springer’s authors’ guidelines and use their LaTeX proceedings template. Springer encourages authors to include their [ORCIDs](https://goo.gl/hbsa4D) in their papers. Submitted papers must be in PDF format and submitted electronically via the [ISC 2026 submission system (EasyChair)](https://easychair.org/my/conference?conf=isc2026). The submission must be **anonymous** with no author names, affiliations, or obvious references.
+Authors should consult Springer’s authors’ guidelines and use their LaTeX proceedings template. Submitted papers must be in PDF format and submitted electronically via the [ISC 2026 submission system (EasyChair)](https://easychair.org/my/conference?conf=isc2026). The submission must be **anonymous** with no author names, affiliations, or obvious references.
 
 For papers that are accepted, the corresponding author must, acting on behalf of all of the authors of that paper, complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made. Moreover, authors of accepted papers must guarantee that their paper will be presented at the conference.
+
+
+## Conflict of Interest (CoI)
+
+The program co-chairs require cooperation from authors to prevent submissions from being evaluated by reviewers who have a conflict of interest. Authors will be asked during the submission process to indicate any PC members with whom they share CoIs as well as the types of CoIs. That is, if they and one the authors:
+
+1. share an institutional affiliation at the time of submission; 
+1. had at any time in the past a supervisor/PhD student relationship; 
+1. have collaborated or published with in the prior two years; 
+1. are in some form of financial relationship, or have been at some point during the past two years; 
+1. are related, or have close personal friendships. 
+
+For other forms of conflict, authors must contact the chairs and explain the perceived conflict. 
+
+Authors also need to notify to the program co-chairs of any other reason or circumstance that creates a risk that professional judgement may be unduly influenced. 
+
+The chairs reserve the right to request further explanation and can remove non-mandatory conflicts at their discretion.
