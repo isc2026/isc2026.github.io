@@ -27,13 +27,28 @@ He has been lucky to receive the Google Latin America Research Award for privacy
 
 ---
 
-### Title: To Be Announced
+### Title: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty
 
 **Speaker**: [Shweta Shinde](https://www.shwetashinde.org/) (ETH Zurich)
 
 {{< figure src="/img/shweta-shinde.jpg" class="left" width="200">}}
 
-**Date**: TBA \
-**Abstract**: TBA
+**Date**: October 28, 2026 \
+**Abstract**:
+As computing moves increasingly to the cloud and AI-powered services, a fundamental question emerges: who truly controls our data and computation?
+Today's systems force users to trust phone operating system vendors and cloud providers i.e., entities whose interests often conflict with user privacy and security.
+In this talk, I will present how to build systems that enable trustworthy sovereignty, where users can verify who controls their computation rather than blindly trusting cloud operators and management software.
 
-**Biography**: TBA
+I will demonstrate this vision by exposing and addressing trust failures across three critical architectural layers of modern computing.
+First, with Sovereign Smartphone, I will show how we enable users to reclaim control of their smartphones for running security-critical applications like encrypted messaging and password managers in isolation from both the operating system and manufacturer backdoors.
+Second, building Sovereign Smartphone revealed a deeper problem: Ahoi attacks, a new class of interrupt-based vulnerabilities that break the security guarantees of all major CPU-based trusted execution environments by exploiting fundamental assumptions about how processors handle hardware interrupts.
+Finally, I will expose an emerging attack surface in processors and accelerators used in the cloud, where we exploit interconnects to completely bypass security, and how to detect and patch such vulnerabilities.
+
+We will conclude with practical paths toward building systems where trust is verified rather than assumed, enabling genuine digital sovereignty for individuals, organizations, and nations.
+
+**Biography**:
+Shweta Shinde is a tenure-track Assistant Professor in the Department of Computer Science at ETH Zürich, where she leads the Secure & Trustworthy Systems (SECTRS) group.
+Her research focuses on building fundamentally secure large-scale systems.
+She has a track record of uncovering real-world vulnerabilities in confidential computing environments,  based on insights that emerge from the understanding gained through her work to secure them.
+Her defensive research has translated into deployed solutions, with real-world impact extending well beyond the academic setting. Prior to joining ETH Zürich, she was a postdoctoral scholar at the University of California, Berkeley, and completed her PhD at the National University of Singapore.
+
