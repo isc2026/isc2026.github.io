@@ -101,6 +101,25 @@ A list of past proceedings is available through
 Further information about past ISC events is available through
 [DBLP](https://dblp.uni-trier.de/db/conf/isw/index.html).
 
+## Sponsors
+
+
+<div style="display: flex; align-items: center; justify-content: space-evenly;">
+  <!-- <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
+    <img src="/img/HP.svg" alt="HP Logo" width="100"/>
+  </a> -->
+  <a href="https://ptcc.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/img/ptcc_logo.png" alt="PTCC Logo" width="300"/>
+  </a>
+  <!-- <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
+  </a>
+  <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/img/Anssi.png" alt="Anssi Logo" width="100"/>
+  </a> -->
+</div>
+
+<hr style="margin: 20px 0;">
 
 <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <img src="/img/CentraleSupelec.png" alt="CentraleSupélec Logo" width="380"/>

@@ -81,7 +81,7 @@ Basavesh Ammanaghatta Shivakumar, Virginia Tech, USA\
 Amit Kumar Sikder, Iowa State University, USA\
 Chao Sun, Southeast University, Bangladesh\
 Abdul Rahman Taleb, ANSSI, France\
-Élise Tasso, Tohoku University, Japan\
+Élise Tasso, Independent Researcher\
 Vicenç Torra, Umeå University, Sweden\
 Rei Ueno, Kyoto University, Japan\
 Praveen Kumar Vadnala, PQShield BV, The Netherlands\
