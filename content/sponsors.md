@@ -49,6 +49,19 @@ CyberSchool was created with the goal of increasing the number of highly qualifi
 
 Managed by the University of Rennes, CyberSchool draws on the expertise of ten academic, scientific, and institutional partners.
 
+
+## ANSSI
+
+<div style="text-align: center;margin: 20px 0;">
+  <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/img/Anssi.png" alt="Anssi Logo" width="100"/>
+  </a>
+</div>
+
+The French Cybersecurity Agency (ANSSI) is the national authority for cybersecurity and cyberdefence in France. ANSSI’s purpose is to develop and coordinate, across government departments, the nation’s protection against cyberattacks, and to contribute to the stability of cyberspace.
+
+Its work forms part of the State’s sovereign responsibilities, serving the overarching public policy objective of security and resilience for government departments, the economy and society as a whole.
+
 <!-- <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
     <img src="/img/HP.svg" alt="HP Logo" width="100"/>

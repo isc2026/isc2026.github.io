@@ -111,21 +111,21 @@ Further information about past ISC events is available through
   <a href="https://www.pepr-cybersecurite.fr/" target="_blank" rel="noopener noreferrer">
     <img src="/img/pepr-cyber.png" alt="PEPR Logo" width="300"/>
   </a>
-  <a href="https://cyberschool.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="/img/cyberschool.png" alt="Cyberschool Logo" width="300"/>
-  </a>
 </div>
-<!-- <div style="display: flex; align-items: center; justify-content: space-evenly;">
-  <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
+<div style="display: flex; align-items: center; justify-content: space-evenly;">
+  <!-- <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
     <img src="/img/HP.svg" alt="HP Logo" width="100"/>
   </a>
   <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
     <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
-  </a>
+  </a> -->
   <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/Anssi.png" alt="Anssi Logo" width="100"/>
+    <img src="/img/Anssi.png" alt="Anssi Logo" width="110"/>
   </a>
-</div> -->
+  <a href="https://cyberschool.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/cyberschool.png" alt="Cyberschool Logo" width="300"/>
+  </a>
+</div>
 
 <hr style="margin: 20px 0;">
 
