@@ -20,9 +20,9 @@ We thank our sponsors for the 2026 edition of ISC:
     <img src="/img/ptcc_logo.png" alt="PTCC Logo" width="300"/>
   </a>
 </div>
-Financé dans le cadre de la Stratégie Nationale pour la Cybersécurité le PTCC ou Programme de Transfert au Campus Cyber soutient le développement d’une dynamique de transfert de compétences et de technologies entre les acteurs de la recherche académique et les entreprises de la cybersécurité.
 
-Il s’appuie sur la dynamique collective du Campus Cyber et de son réseau en région pour favoriser les projets conjoints entre acteurs académiques, industriels, gouvernementaux.
+Funded as part of the National Cybersecurity Strategy, the PTCC (Programme de Transfert au Campus Cyber) supports the development of a dynamic of skills and technology transfer between academic research players and cybersecurity companies.
+It relies on the collective momentum of Campus Cyber and its regional network to foster joint projects between academic, industrial, and governmental players.
 
 ## PEPR Cybersécurité
 
@@ -32,7 +32,7 @@ Il s’appuie sur la dynamique collective du Campus Cyber et de son réseau en r
   </a>
 </div>
 
-Lancé en juin 2022, le Programme et équipements prioritaires de recherche en Cybersécurité est financé par France 2030, dans le cadre de la stratégie nationale pour la cybersécurité. Son budget de 65M€ sur six ans doit lui permettre de répondre à 10 défis de recherche au service de la filière.
+Launched in June 2022, the Priority Cybersecurity Research Program and Equipment initiative is funded by France 2030, as part of the national cybersecurity strategy. Its budget of €65M over six years is intended to enable it to address 10 research challenges in service of the industry.
 
 ## EUR Cyberschool
 
@@ -43,11 +43,11 @@ Lancé en juin 2022, le Programme et équipements prioritaires de recherche en C
 </div>
 
 
-La CyberSchool est un projet lauréat du programme français « Investissements d’Avenir ». C’est la seule École Universitaire de Recherche en cybersécurité en France.
+CyberSchool is a winning project of the French “Investments for the Future” programme. It is the only graduate cybersecurity research school in France.
 
-Elle a été créée dans le but d’augmenter le nombre de professionnels hautement qualifiés diplômés en cybersécurité pour répondre aux besoins en talents en Bretagne et en France. Elle cherche notamment à sensibiliser un large public à ce secteur, à enrichir les formations de ses partenaires et à faciliter la reconversion professionnelle. Elle investit également dans la recherche pour soutenir l’innovation en matière de cybersécurité et renforcer la position de la Bretagne en tant que pôle d’excellence dans ce domaine.
+CyberSchool was created with the goal of increasing the number of highly qualified cybersecurity professionals to meet talent needs in Brittany and France. It aims to raise awareness of this sector among a wide audience, enhance the training of its partners, and facilitate career transitions. CyberSchool also invests in research to support cybersecurity innovation and strengthen Brittany’s position as a center of excellence in this field.
 
-Pilotée par l’Université de Rennes, la CyberSchool mobilise l’expertise de 10 partenaires académiques, scientifiques et institutionnels.
+Managed by the University of Rennes, CyberSchool draws on the expertise of ten academic, scientific, and institutional partners.
 
 <!-- <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
