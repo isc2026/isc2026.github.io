@@ -62,13 +62,22 @@ The French Cybersecurity Agency (ANSSI) is the national authority for cybersecur
 
 Its work forms part of the State’s sovereign responsibilities, serving the overarching public policy objective of security and resilience for government departments, the economy and society as a whole.
 
+## SequoIA Cluster
+
+<div style="text-align: center;margin: 20px 0;">
+  <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
+  </a>
+</div>
+
+
+Led by the University of Rennes and its partners, the Cluster SequoIA aims to strengthen the construction of an attractive European research and training environment in cybersecurity, environment, ocean and AI, drawing on internationally renowned expertise. 
+
 <!-- <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
     <img src="/img/HP.svg" alt="HP Logo" width="100"/>
   </a>
-  <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
-  </a>
+
   <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
     <img src="/img/Anssi.png" alt="Anssi Logo" width="100"/>
   </a>
