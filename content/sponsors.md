@@ -54,13 +54,15 @@ Managed by the University of Rennes, CyberSchool draws on the expertise of ten a
 
 <div style="text-align: center;margin: 20px 0;">
   <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/Anssi.png" alt="Anssi Logo" width="100"/>
+    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="100"/>
   </a>
 </div>
 
 The French Cybersecurity Agency (ANSSI) is the national authority for cybersecurity and cyberdefence in France. ANSSI’s purpose is to develop and coordinate, across government departments, the nation’s protection against cyberattacks, and to contribute to the stability of cyberspace.
 
 Its work forms part of the State’s sovereign responsibilities, serving the overarching public policy objective of security and resilience for government departments, the economy and society as a whole.
+
+Its work is divided into five main areas of responsibility: defending, knowing, sharing, supporting and regulating.
 
 ## SequoIA Cluster
 
