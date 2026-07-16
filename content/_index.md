@@ -120,7 +120,7 @@ Further information about past ISC events is available through
     <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
   </a>
   <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="110"/>
+    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="300"/>
   </a>
   <a href="https://cyberschool.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
     <img src="/img/cyberschool.png" alt="Cyberschool Logo" width="300"/>

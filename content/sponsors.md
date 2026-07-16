@@ -54,7 +54,7 @@ Managed by the University of Rennes, CyberSchool draws on the expertise of ten a
 
 <div style="text-align: center;margin: 20px 0;">
   <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="100"/>
+    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="300"/>
   </a>
 </div>
 
