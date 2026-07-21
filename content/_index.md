@@ -111,6 +111,9 @@ Further information about past ISC events is available through
   <a href="https://www.pepr-cybersecurite.fr/" target="_blank" rel="noopener noreferrer">
     <img src="/img/pepr-cyber.png" alt="PEPR Logo" width="300"/>
   </a>
+  <a href="https://youtube.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/youtube.png" alt="Youtube Logo" width="300"/>
+  </a>
 </div>
 <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <!-- <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
