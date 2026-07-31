@@ -29,6 +29,18 @@ Its work is divided into five main areas of responsibility: defending, knowing, 
 
 
 
+# Arm
+
+<div style="text-align: center;margin: 20px 0;">
+  <a href="https://www.arm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/arm-logo.png" alt="Arm Logo" width="200"/>
+  </a>
+</div>
+
+Arm is a leading compute platform company that designs and licenses processor architectures for a wide range of products, including smartphones, tablets, embedded systems, automotive applications, and data centers.
+
+
+
 ## EUR Cyberschool
 
 <div style="text-align: center;margin: 20px 0;">
