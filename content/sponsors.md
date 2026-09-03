@@ -14,17 +14,36 @@ You can find more information on our [call for sponsors](/files/ISC-call-for-spo
 We thank our sponsors for the 2026 edition of ISC:
 
 
-## Programme de Transfert du Campus Cyber
+## Gold sponsors
+
+
+### ANSSI
+
 <div style="text-align: center;margin: 20px 0;">
-  <a href="https://ptcc.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/ptcc_logo.png" alt="PTCC Logo" width="300"/>
+  <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="300"/>
   </a>
 </div>
 
-Funded as part of the National Cybersecurity Strategy, the PTCC (Programme de Transfert au Campus Cyber) supports the development of a dynamic of skills and technology transfer between academic research players and cybersecurity companies.
-It relies on the collective momentum of Campus Cyber and its regional network to foster joint projects between academic, industrial, and governmental players.
+The French Cybersecurity Agency (ANSSI) is the national authority for cybersecurity and cyberdefence in France. ANSSI’s purpose is to develop and coordinate, across government departments, the nation’s protection against cyberattacks, and to contribute to the stability of cyberspace.
 
-## PEPR Cybersécurité
+Its work forms part of the State’s sovereign responsibilities, serving the overarching public policy objective of security and resilience for government departments, the economy and society as a whole.
+
+Its work is divided into five main areas of responsibility: defending, knowing, sharing, supporting and regulating.
+
+### HP
+
+<div style="text-align: center;margin: 20px 0;">
+  <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
+    <img src="/img/HP.svg" alt="HP Logo" width="100"/>
+  </a>
+</div>
+
+
+## Silver sponsors
+
+
+### PEPR Cybersécurité
 
 <div style="text-align: center;margin: 20px 0;">
   <a href="https://www.pepr-cybersecurite.fr/" target="_blank" rel="noopener noreferrer">
@@ -34,7 +53,7 @@ It relies on the collective momentum of Campus Cyber and its regional network to
 
 Launched in June 2022, the Priority Cybersecurity Research Program and Equipment initiative is funded by France 2030, as part of the national cybersecurity strategy. Its budget of €65M over six years is intended to enable it to address 10 research challenges in service of the industry.
 
-## EUR Cyberschool
+### EUR Cyberschool
 
 <div style="text-align: center;margin: 20px 0;">
   <a href="https://cyberschool.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
@@ -50,21 +69,7 @@ CyberSchool was created with the goal of increasing the number of highly qualifi
 Managed by the University of Rennes, CyberSchool draws on the expertise of ten academic, scientific, and institutional partners.
 
 
-## ANSSI
-
-<div style="text-align: center;margin: 20px 0;">
-  <a href="https://cyber.gouv.fr" target="_blank" rel="noopener noreferrer">
-    <img src="/img/Anssi-officiel.jpg" alt="Anssi Logo" width="300"/>
-  </a>
-</div>
-
-The French Cybersecurity Agency (ANSSI) is the national authority for cybersecurity and cyberdefence in France. ANSSI’s purpose is to develop and coordinate, across government departments, the nation’s protection against cyberattacks, and to contribute to the stability of cyberspace.
-
-Its work forms part of the State’s sovereign responsibilities, serving the overarching public policy objective of security and resilience for government departments, the economy and society as a whole.
-
-Its work is divided into five main areas of responsibility: defending, knowing, sharing, supporting and regulating.
-
-## SequoIA Cluster
+### SequoIA Cluster
 
 <div style="text-align: center;margin: 20px 0;">
   <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
@@ -74,6 +79,20 @@ Its work is divided into five main areas of responsibility: defending, knowing, 
 
 
 Led by the University of Rennes and its partners, the Cluster SequoIA aims to strengthen the construction of an attractive European research and training environment in cybersecurity, environment, ocean and AI, drawing on internationally renowned expertise. 
+
+## Bronze sponsors
+
+### Programme de Transfert du Campus Cyber
+
+<div style="text-align: center;margin: 20px 0;">
+  <a href="https://ptcc.fr" target="_blank" rel="noopener noreferrer">
+    <img src="/img/ptcc_logo.png" alt="PTCC Logo" width="300"/>
+  </a>
+</div>
+
+Funded as part of the National Cybersecurity Strategy, the PTCC (Programme de Transfert au Campus Cyber) supports the development of a dynamic of skills and technology transfer between academic research players and cybersecurity companies.
+It relies on the collective momentum of Campus Cyber and its regional network to foster joint projects between academic, industrial, and governmental players.
+
 
 <!-- <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
