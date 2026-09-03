@@ -13,8 +13,6 @@ You can find more information on our [call for sponsors](/files/ISC-call-for-spo
 
 We thank our sponsors for the 2026 edition of ISC:
 
-## ANSSI
-
 ## Gold sponsors
 
 
