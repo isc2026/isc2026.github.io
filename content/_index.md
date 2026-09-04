@@ -116,9 +116,9 @@ Further information about past ISC events is available through
   </a>
 </div>
 <div style="margin: 20px 0; display: flex; align-items: center; justify-content: space-evenly;">
-  <!-- <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hp.com" target="_blank" rel="noopener noreferrer">
     <img src="/img/HP.svg" alt="HP Logo" width="100"/>
-  </a> -->
+  </a>
   <a href="https://cluster-sequoia.univ-rennes.fr/" target="_blank" rel="noopener noreferrer">
     <img src="/img/SequoIA.png" alt="SequoIA Logo" width="200"/>
   </a>
