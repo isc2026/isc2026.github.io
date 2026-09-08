@@ -14,11 +14,11 @@ The participants with a student registration will be required to prove their sta
 
 Please refer to the table below for the ISC 2026 registration costs (Euros):
 
-| Category                                                | Standard                          |
-| :-------                                                | :-------------------------------- |
-| Student                                                 | 350€                              |
-| Regular                                                 | 400€                              |
-| Social event and gala diner for an accompanying person  | 80€                               |
+| Category                                                | Early registration (27/08 – 27/09) | Late registration (28/09 – 12/10) |
+| :-------                                                | :--------------------------------- | :-------------------------------  |
+| Student                                                 | 350€                               | 400€                              |
+| Regular                                                 | 400€                               | 450€                              |
+| Social event and gala diner for an accompanying person  | 80€                                | 80€                               |
 
 
 You can register [here](https://dr17.azur-colloque.fr/inscription/fr/263/inscription).
