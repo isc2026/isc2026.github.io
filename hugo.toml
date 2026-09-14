@@ -2,6 +2,12 @@ theme = 'mainroad'
 title = 'ISC 2026'
 
 baseURL = "https://isc2026.github.io/"
+
+[[menus.main]]
+  identifier = "program"
+  name = "Program ▾"
+  weight = 7
+
 [Params.style.vars]
   highlightColor = "#166bc6"
 
@@ -16,6 +22,7 @@ baseURL = "https://isc2026.github.io/"
 
 [Params]
 copyright = "ISC 2026"
+customCSS = ["css/custom.css"]
 
 [markup]
   [markup.goldmark]

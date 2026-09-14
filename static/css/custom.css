@@ -1,0 +1,61 @@
+.menu__accordion > summary {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: .5rem;
+	list-style: none;
+	cursor: pointer;
+}
+
+.menu__accordion > summary::-webkit-details-marker {
+	display: none;
+}
+
+.menu__accordion > summary::after {
+	content: "▾";
+}
+
+.menu__accordion[open] > summary::after {
+	content: "▴";
+}
+
+.menu__item--active > .menu__accordion > summary,
+.menu__accordion > summary:hover {
+	color: #96cfec;
+}
+
+.menu__accordion > summary:focus-visible {
+	outline: 2px solid #96cfec;
+	outline-offset: -2px;
+}
+
+.menu__submenu {
+	list-style: none;
+	background: #3c60d6;
+}
+
+.menu__submenu .menu__item {
+	border: 0;
+}
+
+.menu__submenu .menu__link {
+	padding-left: 1.875rem;
+}
+
+@media screen and (min-width: 767px) {
+	.menu__accordion {
+		position: relative;
+	}
+
+	.menu__submenu {
+		position: absolute;
+		z-index: 2;
+		min-width: 100%;
+		width: max-content;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, .2);
+	}
+
+	.menu__submenu .menu__link {
+		padding-left: .9375rem;
+	}
+}
