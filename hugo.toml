@@ -5,7 +5,7 @@ baseURL = "https://isc2026.github.io/"
 
 [[menus.main]]
   identifier = "program"
-  name = "Program ▾"
+  name = "Program"
   weight = 7
 
 [Params.style.vars]
