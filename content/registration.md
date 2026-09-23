@@ -23,6 +23,9 @@ Please refer to the table below for the ISC 2026 registration costs (Euros):
 
 You can register [here](https://dr17.azur-colloque.fr/inscription/fr/263/inscription).
 
+Please also fill the following form for registering to the social events [here](https://framaforms.org/isc-social-events-registration-1789415106)
+
+
 <!-- **We are under testing for registration; please wait until further notice.** -->
 
 **Registration is currently open! Either wire transfer or credit card payment is accepted.**
