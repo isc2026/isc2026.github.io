@@ -9,25 +9,15 @@ weight = 1
 
 | Paper |
 | --- |
-<!-- Session 2a -->
 | <!-- Paper 3830 --> **Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems**<br><u>Xin Yang</u>, Zhi Wang, Du Chen, Han Gao, Meiqi Tian, Yan Jia and Wanpeng Li<br>*Nankai University & Hong Kong University, China; University of Liverpool, Uk* |
 | <!-- Paper 4972 --> **Breaking Google Wallet For Fun and Profit**<br><u>Etienne Nedjaï</u> and Mohamed Sabt<br>*Université de Rennes, France* |
 | <!-- Paper 6106 --> **On the Long-Term Reproducibility of Vulnerable Environments**<br><u>Olivier Levillain</u>, Nicolas Dejon, Clément Parssegny and Sylvie Laniepce<br>*Orange Research & Institut Polytechnique de Paris, France* |
-<!-- ------- -->
-<!-- ------- -->
-<!-- Session 2b -->
 | <!-- Paper 8188 --> **FIPS-Aligned STARK Verification of ML-DSA and Classical Signatures, with an AIR-Based Cost Model**<br><u>Stephen Holmes</u><br>*University of Surrey, UK* |
 | <!-- Paper 6770 --> **HRA-secure Attribute-based Proxy Re-encryption from Fully Homomorphic Attribute-based Encryption**<br><u>Seiryo Hamasu</u>, Hyungrok Jo, Shingo Sato and Junji Shikata<br>*Yokohama National University, Japan* |
 | <!-- Paper 9123 --> **Direct Robust Function-Private Identity-Based Encryption from Lattices**<br><u>Hao Qin</u>, Qinyi Li and Xavier Boyen<br>*Griffith University & Queensland University of Technology, Australia* |
-<!-- ------- -->
-<!-- ------- -->
-<!-- Session 3a -->
 | <!-- Paper 5393 --> **A Study of Kernel Telemetry Options for Security-Oriented Provenance**<br>Paul Robert Balthazar Houssel, Olivier Levillain, Sylvie Laniepce, <u>Nicolas Dejon</u> and Hervé Debar<br>*Orange Research & Institut Polytechnique de Paris, France* |
 | <!-- Paper 5736 --> **Investigating Fault-Induced Misconfiguration of RISC-V PMP and Its Consequences for Isolated Software Execution Environment**<br><u>Kévin Queneherve</u>, Philippe Tanguy, Rachid Dafali and Vianney Lapotre<br>*Université de Bretagne-Sud & DGA MI, France* |
 | <!-- Paper 9642 --> **gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication**<br><u>Chaochao Zhang</u> and Xingbin Wang<br>*Ningbo University of Technology & Tianjin University, China* |
-<!-- ------- -->
-<!-- ------- -->
-<!-- Session 3b -->
 | <!-- Paper 2574 --> **Differential-based Attacks on Round-reduced BAKSHEESH**<br><u>Yong Liu</u>, Siwei Sun, Zejun Xiang, Rui Xu, Xiutao Feng and Xiangyong Zeng<br>*Chinese Academy of Sciences & Hubei University, China* |
 | <!-- Paper 4660 --> **Differentially Private SQL Query Processing: An Empirical Evaluation of Systems and Their Trade-offs**<br><u>Loïs Ecoffet</u>, Veronika Rehn-Sonigo, Jean-François Couchot and Catuscia Palamidessi<br>*Université Marie et Louis Pasteur & Inria Saclay, France* |
 | <!-- Paper 0387 --> **Verifiable Information-Theoretic HSS over General Adversary Structures**<br><u>Yang Liu</u> and Liang Feng Zhang<br>*ShanghaiTech University, China* |
