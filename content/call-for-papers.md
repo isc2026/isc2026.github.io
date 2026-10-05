@@ -62,14 +62,28 @@ For papers that are accepted, the corresponding author must, acting on behalf of
 
 The program co-chairs require cooperation from authors to prevent submissions from being evaluated by reviewers who have a conflict of interest. Authors will be asked during the submission process to indicate any PC members with whom they share CoIs as well as the types of CoIs. That is, if they and one the authors:
 
-1. share an institutional affiliation at the time of submission; 
-1. had at any time in the past a supervisor/PhD student relationship; 
-1. have collaborated or published with in the prior two years; 
-1. are in some form of financial relationship, or have been at some point during the past two years; 
-1. are related, or have close personal friendships. 
+1. share an institutional affiliation at the time of submission;
+1. had at any time in the past a supervisor/PhD student relationship;
+1. have collaborated or published with in the prior two years;
+1. are in some form of financial relationship, or have been at some point during the past two years;
+1. are related, or have close personal friendships.
 
-For other forms of conflict, authors must contact the chairs and explain the perceived conflict. 
+For other forms of conflict, authors must contact the chairs and explain the perceived conflict.
 
-Authors also need to notify to the program co-chairs of any other reason or circumstance that creates a risk that professional judgement may be unduly influenced. 
+Authors also need to notify to the program co-chairs of any other reason or circumstance that creates a risk that professional judgement may be unduly influenced.
 
 The chairs reserve the right to request further explanation and can remove non-mandatory conflicts at their discretion.
+
+## Before you Submit your Paper
+
+Authors are strongly advised to pay careful attention to the following points:
+
+- double-blind review process (anonymous submission without obvious references);
+- in-person only conference (authors of accepted papers must guarantee attendance);
+- any paper that is not presented (no-show) will be excluded from the proceedings;
+- use the correct LNCS template and do not modify the original margins;
+- strictly respect the page limits.
+
+## Use of generative AI and LLMs
+
+Authors must carefully minimize the use of AI and LLM tools and verify that all content and results are accurate and supported by evidence. Papers containing hallucinated citations, or any other invented or fabricated claims will be desk rejected. Authors retain full responsibility for the accuracy, originality, and integrity of the work.
