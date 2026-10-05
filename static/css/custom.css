@@ -59,3 +59,107 @@
 		padding-left: .9375rem;
 	}
 }
+
+.program-days {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .5rem;
+	margin: 1.5rem 0 2rem;
+}
+
+.program-days a {
+	padding: .5rem .75rem;
+	border-radius: 3px;
+	background: #e8f1fb;
+	font-weight: 600;
+}
+
+.program-day {
+	margin: 2rem 0 3rem;
+	scroll-margin-top: 1rem;
+}
+
+.program-day h2 {
+	padding: .6rem .8rem;
+	background: #166bc6;
+	color: #fff;
+}
+
+.program-events {
+	border: 1px solid #d8e0e8;
+	border-bottom: 0;
+}
+
+.program-event {
+	display: grid;
+	grid-template-columns: 8rem minmax(0, 1fr);
+	border-bottom: 1px solid #d8e0e8;
+}
+
+.program-event__time {
+	padding: .8rem;
+	background: #f2f6fa;
+	font-weight: 700;
+	white-space: nowrap;
+}
+
+.program-event__body {
+	min-width: 0;
+	padding: .8rem 1rem;
+}
+
+.program-event__body h3 {
+	margin: 0;
+	font-size: 1.05rem;
+}
+
+.program-event__room {
+	font-weight: 400;
+}
+
+.program-event__chair,
+.program-event__topic,
+.program-event__notes {
+	margin: .3rem 0 0;
+}
+
+.program-event__topic {
+	font-weight: 700;
+}
+
+.program-event--break .program-event__body,
+.program-event--break .program-event__time {
+	background: #fff4d7;
+}
+
+.program-items,
+.program-papers,
+.program-details {
+	margin: .6rem 0 0;
+	padding-left: 1.4rem;
+}
+
+.program-items li,
+.program-papers li,
+.program-details li {
+	margin: .4rem 0;
+}
+
+.program-items__time,
+.program-paper-id {
+	font-weight: 700;
+}
+
+.program-items__speaker {
+	display: block;
+}
+
+@media screen and (max-width: 600px) {
+	.program-event {
+		grid-template-columns: 1fr;
+	}
+
+	.program-event__time {
+		padding-bottom: .25rem;
+	}
+}

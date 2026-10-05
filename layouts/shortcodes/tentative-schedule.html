@@ -1,0 +1,46 @@
+{{- $program := site.Data.prog -}}
+<nav class="program-days" aria-label="Schedule days">
+  {{- range $program.days }}
+  <a href="#{{ .date }}">{{ .label }}</a>
+  {{- end }}
+</nav>
+
+<div class="program-schedule">
+  {{- range $program.days }}
+  <section class="program-day" id="{{ .date }}" aria-label="{{ .label }}">
+    <h2>{{ .label }}</h2>
+    <div class="program-events">
+      {{- range .events }}
+      <article class="program-event program-event--{{ .type }}">
+        <div class="program-event__time"><time>{{ .start }}</time>–<time>{{ .end }}</time></div>
+        <div class="program-event__body">
+          <h3>{{ .title }}{{ with .room }} <span class="program-event__room">[{{ . }}]</span>{{ end }}</h3>
+          {{- with .chair }}<p class="program-event__chair">Session chair: {{ . }}</p>{{ end }}
+          {{- with .topic }}<p class="program-event__topic">{{ . }}</p>{{ end }}
+          {{- with .items }}
+          <ul class="program-items">
+            {{- range . }}
+            <li><span class="program-items__time">{{ .start }}–{{ .end }}</span> <strong>{{ .title }}</strong>{{ with .speaker }}<span class="program-items__speaker">{{ . }}</span>{{ end }}</li>
+            {{- end }}
+          </ul>
+          {{- end }}
+          {{- with .papers }}
+          <ol class="program-papers">
+            {{- range . }}
+            <li><span class="program-paper-id">#{{ .id }}</span> {{ .text }}</li>
+            {{- end }}
+          </ol>
+          {{- end }}
+          {{- with .details }}
+          <ul class="program-details">
+            {{- range . }}<li><span class="program-items__time">{{ .time }}</span> {{ .text }}</li>{{ end }}
+          </ul>
+          {{- end }}
+          {{- with .notes }}<p class="program-event__notes">{{ delimit . "; " }}</p>{{ end }}
+        </div>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+</div>

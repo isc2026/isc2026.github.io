@@ -1,0 +1,422 @@
+{
+  "days": [
+    {
+      "date": "2026-10-28",
+      "label": "Wednesday, 28 October 2026",
+      "events": [
+        {
+          "type": "event",
+          "start": "08:00",
+          "end": "08:30",
+          "title": "Registration"
+        },
+        {
+          "type": "session",
+          "start": "08:30",
+          "end": "10:00",
+          "title": "SESSION 1",
+          "room": "Amphi",
+          "papers": [],
+          "items": [
+            {
+              "start": "08:30",
+              "end": "09:00",
+              "title": "Opening Remarks (General chair + PC chairs)"
+            },
+            {
+              "start": "09:00",
+              "end": "10:00",
+              "title": "Invited Keynote: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty",
+              "speaker": "Shweta Shinde (ETH Zurich, Switzerland)"
+            }
+          ]
+        },
+        {
+          "type": "break",
+          "start": "10:00",
+          "end": "10:30",
+          "title": "COFFEE BREAK"
+        },
+        {
+          "type": "session",
+          "start": "10:30",
+          "end": "11:45",
+          "title": "PARALLEL SESSION 2a",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "3830",
+              "text": "Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems, Xin Yang, Zhi Wang, Du Chen, Han Gao, Meiqi Tian, Yan Jia and Wanpeng Li (Nankai University & Hong Kong University, China; University of Liverpool, Uk)"
+            },
+            {
+              "id": "4972",
+              "text": "Breaking Google Wallet For Fun and Profit, Etienne Nedjaï and Mohamed Sabt (Université de Rennes, France)"
+            },
+            {
+              "id": "6106",
+              "text": "On the Long-Term Reproducibility of Vulnerable Environments, Olivier Levillain, Nicolas Dejon, Clément Parssegny and Sylvie Laniepce (Orange Research & Institut Polytechnique de Paris, France)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Authentication & Vulnerabilities"
+        },
+        {
+          "type": "session",
+          "start": "10:30",
+          "end": "11:45",
+          "title": "PARALLEL SESSION 2b",
+          "room": "Salle réservée",
+          "papers": [
+            {
+              "id": "8188",
+              "text": "FIPS-Aligned STARK Verification of ML-DSA and Classical Signatures, with an AIR-Based Cost Model, Stephen Holmes (University of Surrey, UK)"
+            },
+            {
+              "id": "6770",
+              "text": "HRA-secure Attribute-based Proxy Re-encryption from Fully Homomorphic Attribute-based Encryption, Seiryo Hamasu, Hyungrok Jo, Shingo Sato and Junji Shikata (Yokohama National University, Japan)"
+            },
+            {
+              "id": "9123",
+              "text": "Direct Robust Function-Private Identity-Based Encryption from Lattices, Hao Qin, Qinyi Li and Xavier Boyen (Griffith University & Queensland University of Technology, Australia)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Post-Quantum Cryptography"
+        },
+        {
+          "type": "break",
+          "start": "11:45",
+          "end": "13:45",
+          "title": "LUNCH BREAK"
+        },
+        {
+          "type": "session",
+          "start": "13:45",
+          "end": "15:00",
+          "title": "PARALLEL SESSION 3a",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "5393",
+              "text": "A Study of Kernel Telemetry Options for Security-Oriented Provenance, Paul Robert Balthazar Houssel, Olivier Levillain, Sylvie Laniepce, Nicolas Dejon and Hervé Debar (Orange Research & Institut Polytechnique de Paris, France)"
+            },
+            {
+              "id": "5736",
+              "text": "Investigating Fault-Induced Misconfiguration of RISC-V PMP and Its Consequences for Isolated Software Execution Environment, Kévin Queneherve, Philippe Tanguy, Rachid Dafali and Vianney Lapotre (Université de Bretagne-Sud & DGA MI, France)"
+            },
+            {
+              "id": "9642",
+              "text": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication, Chaochao Zhang and Xingbin Wang (Ningbo University of Technology & Tianjin University, China)"
+            }
+          ],
+          "chair": "Shweta Shinde (ETH Zurich, Switzerland)?",
+          "topic": "System Architecture, Hardware & Software Resilience"
+        },
+        {
+          "type": "session",
+          "start": "13:45",
+          "end": "15:00",
+          "title": "PARALLEL SESSION 3b",
+          "room": "Salle réservée",
+          "papers": [
+            {
+              "id": "2574",
+              "text": "Differential-based Attacks on Round-reduced BAKSHEESH, Yong Liu, Siwei Sun, Zejun Xiang, Rui Xu, Xiutao Feng and Xiangyong Zeng (Chinese Academy of Sciences & Hubei University, China)"
+            },
+            {
+              "id": "4660",
+              "text": "Differentially Private SQL Query Processing: An Empirical Evaluation of Systems and Their Trade-offs, Loïs Ecoffet, Veronika Rehn-Sonigo, Jean-François Couchot and Catuscia Palamidessi (Université Marie et Louis Pasteur & Inria Saclay, France)"
+            },
+            {
+              "id": "0387",
+              "text": "Verifiable Information-Theoretic HSS over General Adversary Structures, Yang Liu and Liang Feng Zhang (ShanghaiTech University, China)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Symmetric Cryptography & Private Computing"
+        },
+        {
+          "type": "break",
+          "start": "15:00",
+          "end": "15:30",
+          "title": "COFFEE BREAK"
+        },
+        {
+          "type": "session",
+          "start": "15:30",
+          "end": "16:45",
+          "title": "SESSION 4a",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "3572",
+              "text": "Mitigating Log Poisoning Attack against Anomaly-based Intrusion Detection System, Alexandre Azor, Françoise Sailhan, Alexandre Reiffers-Masson and Julien Francq (IMT Atlantique & NAVAL Group, France)#5104 (Automated SIEM Rules, Log Analysis, Agentic Detection)"
+            },
+            {
+              "id": "5104",
+              "text": "FoRGe: Feedback-Oriented Rule Generation for Security Log Detection, Aidan Wen, Karen Shieh, Jingzhi Jiang, Andy Zhang, Raghad Alkhudair, Basel Alomair and David Wagner (KACST, Saudi Arabia; UC Berkeley, USA)"
+            },
+            {
+              "id": "5773",
+              "text": "Multi-Period Traffic Folding for Efficient IoT Intrusion Detection, Guangwei Cai (Zhengzhou University, China)"
+            }
+          ],
+          "chair": "Olivier Levillain (Institut Polytechnique de Paris, France)?",
+          "topic": "Intrusion Detection, Log Analytics & Threat Detection"
+        },
+        {
+          "type": "session",
+          "start": "15:30",
+          "end": "16:45",
+          "title": "SESSION 4b",
+          "room": "Salle réservée",
+          "papers": [
+            {
+              "id": "1568",
+              "text": "Inside Steam Phishing: Credential Harvesting Mechanics and Evasion Infrastructure, Sara Shakeel, Enrico Branca, and Natalia Stakhanova (University of Saskatchewan, Canada)"
+            },
+            {
+              "id": "4244",
+              "text": "LAS+: Lattice-based Adaptor Signature with Stronger Security, Jiaheng Wang, Guomin Yang, Haiyang Xue, Meng Hao and Robert Deng (Singapore Management University, Singapore)"
+            },
+            {
+              "id": "6218",
+              "text": "Enhancing Malware Detection through Intent Subsequence Mining from API Call Sequences, Tianheng Qu, Xiurong Cao, Hao Dai, Hongsong Zhu, Jiayu Zhang, and Kaixiang Liu (Beijing Institute of Specialized Machinery & Chinese Academy of Sciences, China)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Phishing, Cryptography & Malware Detection"
+        },
+        {
+          "type": "event",
+          "start": "18:00",
+          "end": "21:00",
+          "title": "SOCIAL EVENT",
+          "details": [
+            {
+              "time": "18:00",
+              "text": "Reception at the Town Hall"
+            },
+            {
+              "time": "19:00",
+              "text": "Cocktail at the Picadilly in Rennes’ city center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "label": "Thursday, 29 October 2026",
+      "events": [
+        {
+          "type": "event",
+          "start": "08:30",
+          "end": "09:00",
+          "title": "Registration"
+        },
+        {
+          "type": "session",
+          "start": "09:00",
+          "end": "10:00",
+          "title": "SESSION 5",
+          "room": "",
+          "papers": [],
+          "chair": "Mehdi Tibouchi (NTT Social Informatics Laboratories, Japan)",
+          "items": [
+            {
+              "start": "09:00",
+              "end": "10:00",
+              "title": "Invited Keynote: LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing",
+              "speaker": "Diego F. Aranha (Aarhus University, Denmark)"
+            }
+          ]
+        },
+        {
+          "type": "break",
+          "start": "10:00",
+          "end": "10:30",
+          "title": "COFFEE BREAK"
+        },
+        {
+          "type": "session",
+          "start": "10:30",
+          "end": "11:45",
+          "title": "SESSION 6a",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "6894",
+              "text": "ProTA: Provenance-Aware Tool Authorization for LLM Agents under Indirect Prompt Injection, Rui Wang, Haozhe Li, Yichen Guo, Kaihao Xu, Yun Feng, Xiaoyu Wang, Xinyu Liu, Jianjun Zhao and Qixu Liu (Institute of Information Engineering, Chinese Academy of Sciences, China)"
+            },
+            {
+              "id": "2449",
+              "text": "Beyond Network Size: Factors Shaping Autonomous Cyber Agent Strategy, Kenechukwu Nwodo, Justin Van Roy, Dziyana Hnedzko and Angelos Stavrou (Virginia Tech & A2 Labs, USA)"
+            },
+            {
+              "id": "2967",
+              "text": "What Doesn’t Transfer: Generalization-Aware Auditing of Sensitive-Condition Inference from Sanitized LLM-Agent Telemetry, Aditya Jain, Anmol Pandey, Liang Chen and Carsten Maple (University of Warwick & University of Hertfordshire, UK)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "AI, LLMs & Agentic Security"
+        },
+        {
+          "type": "session",
+          "start": "10:30",
+          "end": "11:45",
+          "title": "SESSION 6b",
+          "room": "Salle réservée",
+          "papers": [
+            {
+              "id": "2359",
+              "text": "TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals, Hamza Aguelal and Paolo Palmieri (University College Cork, Ireland)"
+            },
+            {
+              "id": "6432",
+              "text": "You Can't Spot a Deepfake—And Neither Can Your Brain Nor Eyes: A Neurophysiological Framework for Deepfake Exploitation of Cognitive Engagement and Implicit Visual Evaluation, Cagri Arisoy, Md Imanul Huq, Amy Hays and Nitesh Saxena (Bozok University, Turkey; Texas A&M University, USA)"
+            },
+            {
+              "id": "7496",
+              "text": "Culturally Adapted Transformer-Based Moderation for Indigenous Communities, Chaimaa Oulmalme (Université du Québec à Chicoutimi, Canada)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Digital Forensics, Deepfakes & Transformers"
+        },
+        {
+          "type": "break",
+          "start": "11:45",
+          "end": "13:00",
+          "title": "LUNCH BREAK"
+        },
+        {
+          "type": "event",
+          "start": "13:00",
+          "end": "22:00",
+          "title": "SOCIAL EVENT",
+          "details": [
+            {
+              "time": "13:00",
+              "text": "Trip to the Mont St-Michel"
+            },
+            {
+              "time": "19:30",
+              "text": "Dinner Mr Arthur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "label": "Friday, 30 October 2026",
+      "events": [
+        {
+          "type": "event",
+          "start": "08:30",
+          "end": "09:00",
+          "title": "Registration"
+        },
+        {
+          "type": "session",
+          "start": "09:00",
+          "end": "10:40",
+          "title": "PARALLEL SESSION 7a",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "6452",
+              "text": "I-Tab - Irradiation of Tabular Data to Fight Against Illegal Data Use and Re-Use in AI, Mehdi Ben Ghali, Gouenou Coatrieux and Reda Bellafqira (Inserm & IMT Atlantique, France)"
+            },
+            {
+              "id": "7164",
+              "text": "AI-augmented static analysis framework for secure C software, Amadéo Gilliéron, Nga Nguyen, Guillaume Guerard, Youssef Souissi and Ville Oskari Yli-Mäyry (De Vinci Research Center & Secure-IC, France)"
+            },
+            {
+              "id": "9727",
+              "text": "Mitigating Feature Dilution in Image Manipulation Localization via Hybrid Architecture and Late Noise Fusion, Zexian Song, Shufen Niu, Manyou Ma, Xiaolin Zhou and Yichen Wei (Shenzhen Technology University, China)"
+            },
+            {
+              "id": "8412",
+              "text": "Collusion-Resilient Privacy-Preserving Sensor Fusion with Byzantine-Robust Participation, Chao Yin, Haihong Tian, Zheng Yang, Haibin Zhang, Fabio Massacci and Chenglu Jin (Southwest University, China; Vrije University Amsterdam & Centrum Wiskunde & Informatica, The Netherlands)"
+            }
+          ],
+          "chair": "Joaquin Garcia-Alfaro (Institut Polytechnique de Paris, France)?",
+          "topic": "AI-augmented Security & Privacy Preservation"
+        },
+        {
+          "type": "session",
+          "start": "09:00",
+          "end": "10:40",
+          "title": "PARALLEL SESSION 7b",
+          "room": "Salle réservée",
+          "papers": [
+            {
+              "id": "1040",
+              "text": "How Transfer Learning Can Help Remote Far Field EM Side-Channel Attacks, Huanyu Wang, Minkang Lu, Bijia Cao and Junnian Wang (Hunan University of Science and Technology, China)"
+            },
+            {
+              "id": "9566",
+              "text": "Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot, Suphannee Sivakorn and Samantha Gottlieb (Bloomberg, USA)"
+            },
+            {
+              "id": "7358",
+              "text": "Parallelized Authenticated Encryption with Tag Combiners, Christoph Dobraunig and Charlotte Lefevre (IRISA, France; Intel Labs, USA)"
+            },
+            {
+              "id": "5796",
+              "text": "Walsh LUT Evaluation on Lazy Bits for CKKS AES Transciphering, Rostin Shokri and Nektarios Georgios Tsoutsos (University of Delaware, USA)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Side-Channeling, Authentication & Transciphering Applications"
+        },
+        {
+          "type": "break",
+          "start": "10:40",
+          "end": "11:00",
+          "title": "COFFEE BREAK"
+        },
+        {
+          "type": "session",
+          "start": "11:00",
+          "end": "12:15",
+          "title": "SESSION 8",
+          "room": "Amphi",
+          "papers": [
+            {
+              "id": "2264",
+              "text": "Solving the Identity-Privacy Paradox: How to Identify Friend or Foe Without Self-Disclosure? Ema Sujster, Konrad Wrona and Evangelia Anna Markatou (TU Delft and NATO Communications and Information Agency, The Netherlands)"
+            },
+            {
+              "id": "7112",
+             "text": "Credential-Conditioned Latent Recovery for Wireless Image Semantic Transmission, Sidong Kang, Shixian Chen, Shengliang Wu, Hongtao Wang, Ke Hu and Xin He (AnHui Normal University, China)"
+            },
+            {
+              "id": "0598",
+              "text": "''My Credentials, Please'': Detecting Filesystem Capability Laundering in MCP Servers at Scale, Zeqian Huang, Mingyue Tang, Aonan Guan, Qiming Sun, and Pengzhou He (University of Illinois Urbana-Champaign, Santa Clara University, and Auburn University at Montgomery, USA)"
+            },
+            {
+              "id": "2743",
+              "text": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE, Julien Cam (Groupe Kudelski & Université de Rennes, France)"
+            },
+            {
+              "id": "3967",
+              "text": "Stress Testing Social Media Authentication Ceremonies of End-to-End Encrypted Messaging with Ephemeral Fake Accounts, Mashari Alatawi, Md Shahidur Rahaman and Nitesh Saxena (King Saud University, Saudi Arabia; Texas A&M University, USA)"
+            },
+            {
+              "id": "5539",
+              "text": "A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network, Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
+            }
+          ],
+          "chair": "TBC",
+          "topic": "Privacy, Cryptography & Satellite Security",
+          "notes": [
+            "Announcements & Farewell"
+          ]
+        }
+      ]
+    }
+  ]
+}
