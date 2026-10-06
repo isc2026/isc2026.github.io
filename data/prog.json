@@ -27,7 +27,7 @@
               "start": "09:00",
               "end": "10:00",
               "title": "Invited Keynote: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty",
-              "speaker": "?Shweta Shinde (ETH Zurich, Switzerland)?"
+              "speaker": "Shweta Shinde (ETH Zurich, Switzerland)"
             }
           ]
         },
@@ -109,7 +109,7 @@
               "text": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication, Chaochao Zhang and Xingbin Wang (Ningbo University of Technology & Tianjin University, China)"
             }
           ],
-          "chair": "Shweta Shinde (ETH Zurich, Switzerland)",
+          "chair": "?Shweta Shinde (ETH Zurich, Switzerland)?",
           "topic": "System Architecture, Hardware & Software Resilience"
         },
         {
