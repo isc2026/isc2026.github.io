@@ -109,7 +109,7 @@
               "text": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication, Chaochao Zhang and Xingbin Wang (Ningbo University of Technology & Tianjin University, China)"
             }
           ],
-          "chair": "Shweta Shinde (ETH Zurich, Switzerland)?",
+          "chair": "Shweta Shinde (ETH Zurich, Switzerland)",
           "topic": "System Architecture, Hardware & Software Resilience"
         },
         {
@@ -161,7 +161,7 @@
               "text": "Multi-Period Traffic Folding for Efficient IoT Intrusion Detection, Guangwei Cai (Zhengzhou University, China)"
             }
           ],
-          "chair": "Olivier Levillain (Institut Polytechnique de Paris, France)?",
+          "chair": "Olivier Levillain (Institut Polytechnique de Paris, France)",
           "topic": "Intrusion Detection, Log Analytics & Threat Detection"
         },
         {
@@ -281,7 +281,7 @@
               "text": "Culturally Adapted Transformer-Based Moderation for Indigenous Communities, Chaimaa Oulmalme (Université du Québec à Chicoutimi, Canada)"
             }
           ],
-          "chair": "TBC",
+          "chair": "Gouenou Coatrieux (IMT Atlantique, France)",
           "topic": "Digital Forensics, Deepfakes & Transformers"
         },
         {
@@ -342,7 +342,7 @@
               "text": "Collusion-Resilient Privacy-Preserving Sensor Fusion with Byzantine-Robust Participation, Chao Yin, Haihong Tian, Zheng Yang, Haibin Zhang, Fabio Massacci and Chenglu Jin (Southwest University, China; Vrije University Amsterdam & Centrum Wiskunde & Informatica, The Netherlands)"
             }
           ],
-          "chair": "Joaquin Garcia-Alfaro (Institut Polytechnique de Paris, France)?",
+          "chair": "Joaquin Garcia-Alfaro (Institut Polytechnique de Paris, France)",
           "topic": "AI-augmented Security & Privacy Preservation"
         },
         {
@@ -395,13 +395,13 @@
             },
             {
               "id": "5539",
-              "text": "<b>A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network</b>, by <u>Xin Qi</u>, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
+              "text": "A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network, by Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
             }
           ],
           "chair": "TBC",
           "topic": "Privacy, Cryptography & Satellite Security",
           "notes": [
-            "<b>Announcements & Farewell</b>"
+            "Announcements & Farewell"
           ]
         }
       ]
