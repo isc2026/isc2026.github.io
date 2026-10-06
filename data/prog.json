@@ -184,7 +184,7 @@
               "text": "Enhancing Malware Detection through Intent Subsequence Mining from API Call Sequences, Tianheng Qu, Xiurong Cao, Hao Dai, Hongsong Zhu, Jiayu Zhang, and Kaixiang Liu (Beijing Institute of Specialized Machinery & Chinese Academy of Sciences, China)"
             }
           ],
-          "chair": "TBC",
+          "chair": "Ludovic Mé (INRIA, France)",
           "topic": "Phishing, Cryptography & Malware Detection"
         },
         {
@@ -381,7 +381,7 @@
         {
           "type": "session",
           "start": "11:00",
-          "end": "12:15",
+          "end": "12:40",
           "title": "SESSION 8",
           "room": "Amphi",
           "papers": [
@@ -390,16 +390,20 @@
               "text": "Solving the Identity-Privacy Paradox: How to Identify Friend or Foe Without Self-Disclosure? Ema Sujster, Konrad Wrona and Evangelia Anna Markatou (TU Delft and NATO Communications and Information Agency, The Netherlands)"
             },
             {
-              "id": "2743",
-              "text": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE, Julien Cam (Groupe Kudelski & Université de Rennes, France)"
+              "id": "5539",
+              "text": "A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network, Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
             },
             {
-              "id": "5539",
-              "text": "A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network, by Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
+              "id": "7112",
+              "text": "Credential-Conditioned Latent Recovery for Wireless Image Semantic Transmission, Sidong Kang, Shixian Chen, Shengliang Wu, Hongtao Wang, Ke Hu and Xin (He AnHui Normal University, China)"
+            },
+            {
+              "id": "2743",
+              "text": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE, Julien Cam (Groupe Kudelski & Université de Rennes, France)"
             }
           ],
           "chair": "TBC",
-          "topic": "Privacy, Cryptography & Satellite Security",
+          "topic": "Privacy, Satellite Security & Cryptography",
           "notes": [
             "Announcements & Farewell"
           ]
