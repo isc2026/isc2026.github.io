@@ -42,5 +42,5 @@ weight = 1
 | <!-- Paper 7358 --> **Parallelized Authenticated Encryption with Tag Combiners**<br>Christoph Dobraunig and <u>Charlotte Lefevre</u><br>*IRISA, France; Intel Labs, USA* |
 | <!-- Paper 5796 --> **Walsh LUT Evaluation on Lazy Bits for CKKS AES Transciphering**<br><u>Rostin Shokri</u> and Nektarios Georgios Tsoutsos<br>*University of Delaware, USA* |
 | <!-- Paper 2264 --> **Solving the Identity-Privacy Paradox: How to Identify Friend or Foe Without Self-Disclosure?**<br><u>Ema Sujster</u>, Konrad Wrona and Evangelia Anna Markatou<br>*TU Delft and NATO Communications and Information Agency, The Netherlands* |
-| <!-- Paper 2743 --> **An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE**<br><u>Julien Cam</u><br>*Groupe Kudelski &amp; Universite de Rennes, France* |
+| <!-- Paper #2743 --> **An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE**<br><u>Julien Cam</u><br>*Groupe Kudelski &amp; Universite de Rennes, France* |
 | <!-- Paper 5539 --> **PABV-STIN: A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network**<br><u>Xin Qi</u>, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu<br>*Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China* |
