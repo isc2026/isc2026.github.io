@@ -15,7 +15,7 @@
           "start": "09:00",
           "end": "10:30",
           "title": "SESSION 1",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [],
           "items": [
             {
@@ -47,7 +47,7 @@
           "start": "11:00",
           "end": "12:15",
           "title": "PARALLEL SESSION 2a",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "3830",
@@ -79,7 +79,7 @@
           "start": "11:00",
           "end": "12:15",
           "title": "PARALLEL SESSION 2b",
-          "room": "Salle réservée",
+          "room": "Room B",
           "papers": [
             {
               "id": "8188",
@@ -117,7 +117,7 @@
           "start": "13:45",
           "end": "15:00",
           "title": "PARALLEL SESSION 3a",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "5393",
@@ -149,7 +149,7 @@
           "start": "13:45",
           "end": "15:00",
           "title": "PARALLEL SESSION 3b",
-          "room": "Salle réservée",
+          "room": "Room B",
           "papers": [
             {
               "id": "2574",
@@ -187,7 +187,7 @@
           "start": "15:30",
           "end": "16:45",
           "title": "SESSION 4a",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "3572",
@@ -219,7 +219,7 @@
           "start": "15:30",
           "end": "16:45",
           "title": "SESSION 4b",
-          "room": "Salle réservée",
+          "room": "Room B",
           "papers": [
             {
               "id": "1568",
@@ -307,7 +307,7 @@
           "start": "10:30",
           "end": "11:45",
           "title": "SESSION 6a",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "6894",
@@ -339,7 +339,7 @@
           "start": "10:30",
           "end": "11:45",
           "title": "SESSION 6b",
-          "room": "Salle réservée",
+          "room": "Room B",
           "papers": [
             {
               "id": "2359",
@@ -408,7 +408,7 @@
           "start": "09:00",
           "end": "10:40",
           "title": "PARALLEL SESSION 7a",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "6452",
@@ -447,7 +447,7 @@
           "start": "09:00",
           "end": "10:40",
           "title": "PARALLEL SESSION 7b",
-          "room": "Salle réservée",
+          "room": "Room B",
           "papers": [
             {
               "id": "1040",
@@ -492,7 +492,7 @@
           "start": "11:00",
           "end": "12:40",
           "title": "SESSION 8",
-          "room": "Amphi",
+          "room": "Room A",
           "papers": [
             {
               "id": "2264",
