@@ -6,26 +6,26 @@
       "events": [
         {
           "type": "event",
-          "start": "08:00",
-          "end": "08:30",
+          "start": "08:30",
+          "end": "09:00",
           "title": "Registration"
         },
         {
           "type": "session",
-          "start": "08:30",
-          "end": "10:00",
+          "start": "09:00",
+          "end": "10:30",
           "title": "SESSION 1",
           "room": "Amphi",
           "papers": [],
           "items": [
             {
-              "start": "08:30",
-              "end": "09:00",
+              "start": "09:00",
+              "end": "09:30",
               "title": "Opening Remarks (General chair + PC chairs)"
             },
             {
-              "start": "09:00",
-              "end": "10:00",
+              "start": "09:30",
+              "end": "10:30",
               "title": "Invited Keynote: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty",
               "speaker": "Shweta Shinde (ETH Zurich, Switzerland)"
             }
@@ -33,14 +33,14 @@
         },
         {
           "type": "break",
-          "start": "10:00",
-          "end": "10:30",
+          "start": "10:30",
+          "end": "11:00",
           "title": "COFFEE BREAK"
         },
         {
           "type": "session",
-          "start": "10:30",
-          "end": "11:45",
+          "start": "11:00",
+          "end": "12:15",
           "title": "PARALLEL SESSION 2a",
           "room": "Amphi",
           "papers": [
@@ -62,8 +62,8 @@
         },
         {
           "type": "session",
-          "start": "10:30",
-          "end": "11:45",
+          "start": "11:00",
+          "end": "12:15",
           "title": "PARALLEL SESSION 2b",
           "room": "Salle réservée",
           "papers": [
@@ -85,7 +85,7 @@
         },
         {
           "type": "break",
-          "start": "11:45",
+          "start": "12:15",
           "end": "13:45",
           "title": "LUNCH BREAK"
         },
@@ -287,8 +287,11 @@
         {
           "type": "break",
           "start": "11:45",
-          "end": "13:00",
-          "title": "LUNCH BREAK"
+          "end": "12:45",
+          "title": "LUNCH BREAK",
+          "notes": [
+            "Lunch ends at 12:45 sharp (departure for the Mont St-Michel at 13:00)"
+          ]
         },
         {
           "type": "event",
@@ -407,6 +410,12 @@
           "notes": [
             "Announcements & Farewell"
           ]
+        },
+        {
+          "type": "break",
+          "start": "12:40",
+          "end": "13:45",
+          "title": "LUNCH BREAK"
         }
       ]
     }
