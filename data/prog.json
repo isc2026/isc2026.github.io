@@ -279,7 +279,7 @@
           "start": "09:00",
           "end": "10:00",
           "title": "SESSION 5",
-          "room": "",
+          "room": "Room A",
           "papers": [],
           "chair": "Mehdi Tibouchi (NTT Social Informatics Laboratories, Japan)",
           "items": [
