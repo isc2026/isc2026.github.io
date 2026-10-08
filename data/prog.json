@@ -46,15 +46,24 @@
           "papers": [
             {
               "id": "3830",
-              "text": "Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems, Xin Yang, Zhi Wang, Du Chen, Han Gao, Meiqi Tian, Yan Jia and Wanpeng Li (Nankai University & Hong Kong University, China; University of Liverpool, Uk)"
+              "title": "Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems",
+              "authors": "Xin Yang, Zhi Wang, Du Chen, Han Gao, Meiqi Tian, Yan Jia and Wanpeng Li",
+              "affiliation": "Nankai University & Hong Kong University, China; University of Liverpool, Uk",
+              "presenter": "Xin Yang"
             },
             {
               "id": "4972",
-              "text": "Breaking Google Wallet For Fun and Profit, Etienne Nedjaï and Mohamed Sabt (Université de Rennes, France)"
+              "title": "Breaking Google Wallet For Fun and Profit",
+              "authors": "Etienne Nedjaï and Mohamed Sabt",
+              "affiliation": "Université de Rennes, France",
+              "presenter": "Etienne Nedjaï"
             },
             {
               "id": "6106",
-              "text": "On the Long-Term Reproducibility of Vulnerable Environments, Olivier Levillain, Nicolas Dejon, Clément Parssegny and Sylvie Laniepce (Orange Research & Institut Polytechnique de Paris, France)"
+              "title": "On the Long-Term Reproducibility of Vulnerable Environments",
+              "authors": "Olivier Levillain, Nicolas Dejon, Clément Parssegny and Sylvie Laniepce",
+              "affiliation": "Orange Research & Institut Polytechnique de Paris, France",
+              "presenter": "Olivier Levillain"
             }
           ],
           "chair": "Pierre Wilke (CentraleSupélec, France)",
@@ -69,15 +78,24 @@
           "papers": [
             {
               "id": "8188",
-              "text": "FIPS-Aligned STARK Verification of ML-DSA and Classical Signatures, with an AIR-Based Cost Model, Stephen Holmes (University of Surrey, UK)"
+              "title": "FIPS-Aligned STARK Verification of ML-DSA and Classical Signatures, with an AIR-Based Cost Model",
+              "authors": "Stephen Holmes",
+              "affiliation": "University of Surrey, UK",
+              "presenter": "Stephen Holmes"
             },
             {
               "id": "6770",
-              "text": "HRA-secure Attribute-based Proxy Re-encryption from Fully Homomorphic Attribute-based Encryption, Seiryo Hamasu, Hyungrok Jo, Shingo Sato and Junji Shikata (Yokohama National University, Japan)"
+              "title": "HRA-secure Attribute-based Proxy Re-encryption from Fully Homomorphic Attribute-based Encryption",
+              "authors": "Seiryo Hamasu, Hyungrok Jo, Shingo Sato and Junji Shikata",
+              "affiliation": "Yokohama National University, Japan",
+              "presenter": "Seiryo Hamasu"
             },
             {
               "id": "9123",
-              "text": "Direct Robust Function-Private Identity-Based Encryption from Lattices, Hao Qin, Qinyi Li and Xavier Boyen (Griffith University & Queensland University of Technology, Australia)"
+              "title": "Direct Robust Function-Private Identity-Based Encryption from Lattices",
+              "authors": "Hao Qin, Qinyi Li and Xavier Boyen",
+              "affiliation": "Griffith University & Queensland University of Technology, Australia",
+              "presenter": "Hao Qin"
             }
           ],
           "chair": "Rohitkumar R. Upadhyay (Université de Rennes, France)",
@@ -98,15 +116,24 @@
           "papers": [
             {
               "id": "5393",
-              "text": "A Study of Kernel Telemetry Options for Security-Oriented Provenance, Paul Robert Balthazar Houssel, Olivier Levillain, Sylvie Laniepce, Nicolas Dejon and Hervé Debar (Orange Research & Institut Polytechnique de Paris, France)"
+              "title": "A Study of Kernel Telemetry Options for Security-Oriented Provenance",
+              "authors": "Paul Robert Balthazar Houssel, Olivier Levillain, Sylvie Laniepce, Nicolas Dejon and Hervé Debar",
+              "affiliation": "Orange Research & Institut Polytechnique de Paris, France",
+              "presenter": "Nicolas Dejon"
             },
             {
               "id": "5736",
-              "text": "Investigating Fault-Induced Misconfiguration of RISC-V PMP and Its Consequences for Isolated Software Execution Environment, Kévin Queneherve, Philippe Tanguy, Rachid Dafali and Vianney Lapotre (Université de Bretagne-Sud & DGA MI, France)"
+              "title": "Investigating Fault-Induced Misconfiguration of RISC-V PMP and Its Consequences for Isolated Software Execution Environment",
+              "authors": "Kévin Queneherve, Philippe Tanguy, Rachid Dafali and Vianney Lapotre",
+              "affiliation": "Université de Bretagne-Sud & DGA MI, France",
+              "presenter": "Kévin Queneherve"
             },
             {
               "id": "9642",
-              "text": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication, Chaochao Zhang and Xingbin Wang (Ningbo University of Technology & Tianjin University, China)"
+              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication",
+              "authors": "Chaochao Zhang and Xingbin Wang",
+              "affiliation": "Ningbo University of Technology & Tianjin University, China",
+              "presenter": "Chaochao Zhang"
             }
           ],
           "chair": "Shweta Shinde (ETH Zurich, Switzerland)",
@@ -121,15 +148,24 @@
           "papers": [
             {
               "id": "2574",
-              "text": "Differential-based Attacks on Round-reduced BAKSHEESH, Yong Liu, Siwei Sun, Zejun Xiang, Rui Xu, Xiutao Feng and Xiangyong Zeng (Chinese Academy of Sciences & Hubei University, China)"
+              "title": "Differential-based Attacks on Round-reduced BAKSHEESH",
+              "authors": "Yong Liu, Siwei Sun, Zejun Xiang, Rui Xu, Xiutao Feng and Xiangyong Zeng",
+              "affiliation": "Chinese Academy of Sciences & Hubei University, China",
+              "presenter": "Yong Liu"
             },
             {
               "id": "4660",
-              "text": "Differentially Private SQL Query Processing: An Empirical Evaluation of Systems and Their Trade-offs, Loïs Ecoffet, Veronika Rehn-Sonigo, Jean-François Couchot and Catuscia Palamidessi (Université Marie et Louis Pasteur & Inria Saclay, France)"
+              "title": "Differentially Private SQL Query Processing: An Empirical Evaluation of Systems and Their Trade-offs",
+              "authors": "Loïs Ecoffet, Veronika Rehn-Sonigo, Jean-François Couchot and Catuscia Palamidessi",
+              "affiliation": "Université Marie et Louis Pasteur & Inria Saclay, France",
+              "presenter": "Loïs Ecoffet"
             },
             {
               "id": "0387",
-              "text": "Verifiable Information-Theoretic HSS over General Adversary Structures, Yang Liu and Liang Feng Zhang (ShanghaiTech University, China)"
+              "title": "Verifiable Information-Theoretic HSS over General Adversary Structures",
+              "authors": "Yang Liu and Liang Feng Zhang",
+              "affiliation": "ShanghaiTech University, China",
+              "presenter": "Yang Liu"
             }
           ],
           "chair": "Masahiro Mambo (Kanazawa University, Japan)",
@@ -150,15 +186,24 @@
           "papers": [
             {
               "id": "3572",
-              "text": "Mitigating Log Poisoning Attack against Anomaly-based Intrusion Detection System, Alexandre Azor, Françoise Sailhan, Alexandre Reiffers-Masson and Julien Francq (IMT Atlantique & NAVAL Group, France)#5104 (Automated SIEM Rules, Log Analysis, Agentic Detection)"
+              "title": "Mitigating Log Poisoning Attack against Anomaly-based Intrusion Detection System",
+              "authors": "Alexandre Azor, Françoise Sailhan, Alexandre Reiffers-Masson and Julien Francq",
+              "affiliation": "IMT Atlantique & NAVAL Group, France",
+              "presenter": "Alexandre Azor"
             },
             {
               "id": "5104",
-              "text": "FoRGe: Feedback-Oriented Rule Generation for Security Log Detection, Aidan Wen, Karen Shieh, Jingzhi Jiang, Andy Zhang, Raghad Alkhudair, Basel Alomair and David Wagner (KACST, Saudi Arabia; UC Berkeley, USA)"
+              "title": "FoRGe: Feedback-Oriented Rule Generation for Security Log Detection",
+              "authors": "Aidan Wen, Karen Shieh, Jingzhi Jiang, Andy Zhang, Raghad Alkhudair, Basel Alomair and David Wagner",
+              "affiliation": "KACST, Saudi Arabia; UC Berkeley, USA",
+              "presenter": "Aidan Wen"
             },
             {
               "id": "5773",
-              "text": "Multi-Period Traffic Folding for Efficient IoT Intrusion Detection, Guangwei Cai (Zhengzhou University, China)"
+              "title": "Multi-Period Traffic Folding for Efficient IoT Intrusion Detection",
+              "authors": "Guangwei Cai",
+              "affiliation": "Zhengzhou University, China",
+              "presenter": "Guangwei Cai"
             }
           ],
           "chair": "Olivier Levillain (Institut Polytechnique de Paris, France)",
@@ -173,15 +218,24 @@
           "papers": [
             {
               "id": "1568",
-              "text": "Inside Steam Phishing: Credential Harvesting Mechanics and Evasion Infrastructure, Sara Shakeel, Enrico Branca, and Natalia Stakhanova (University of Saskatchewan, Canada)"
+              "title": "Inside Steam Phishing: Credential Harvesting Mechanics and Evasion Infrastructure",
+              "authors": "Sara Shakeel, Enrico Branca, and Natalia Stakhanova",
+              "affiliation": "University of Saskatchewan, Canada",
+              "presenter": "Natalia Stakhanova"
             },
             {
               "id": "4244",
-              "text": "LAS+: Lattice-based Adaptor Signature with Stronger Security, Jiaheng Wang, Guomin Yang, Haiyang Xue, Meng Hao and Robert Deng (Singapore Management University, Singapore)"
+              "title": "LAS+: Lattice-based Adaptor Signature with Stronger Security",
+              "authors": "Jiaheng Wang, Guomin Yang, Haiyang Xue, Meng Hao and Robert Deng",
+              "affiliation": "Singapore Management University, Singapore",
+              "presenter": "Jiaheng Wang"
             },
             {
               "id": "6218",
-              "text": "Enhancing Malware Detection through Intent Subsequence Mining from API Call Sequences, Tianheng Qu, Xiurong Cao, Hao Dai, Hongsong Zhu, Jiayu Zhang, and Kaixiang Liu (Beijing Institute of Specialized Machinery & Chinese Academy of Sciences, China)"
+              "title": "Enhancing Malware Detection through Intent Subsequence Mining from API Call Sequences",
+              "authors": "Tianheng Qu, Xiurong Cao, Hao Dai, Hongsong Zhu, Jiayu Zhang, and Kaixiang Liu",
+              "affiliation": "Beijing Institute of Specialized Machinery & Chinese Academy of Sciences, China",
+              "presenter": "Jiayu Zhang"
             }
           ],
           "chair": "Ludovic Mé (INRIA, France)",
@@ -247,15 +301,24 @@
           "papers": [
             {
               "id": "6894",
-              "text": "ProTA: Provenance-Aware Tool Authorization for LLM Agents under Indirect Prompt Injection, Rui Wang, Haozhe Li, Yichen Guo, Kaihao Xu, Yun Feng, Xiaoyu Wang, Xinyu Liu, Jianjun Zhao and Qixu Liu (Institute of Information Engineering, Chinese Academy of Sciences, China)"
+              "title": "ProTA: Provenance-Aware Tool Authorization for LLM Agents under Indirect Prompt Injection",
+              "authors": "Rui Wang, Haozhe Li, Yichen Guo, Kaihao Xu, Yun Feng, Xiaoyu Wang, Xinyu Liu, Jianjun Zhao and Qixu Liu",
+              "affiliation": "Institute of Information Engineering, Chinese Academy of Sciences, China",
+              "presenter": "Rui Wang"
             },
             {
               "id": "2449",
-              "text": "Beyond Network Size: Factors Shaping Autonomous Cyber Agent Strategy, Kenechukwu Nwodo, Justin Van Roy, Dziyana Hnedzko and Angelos Stavrou (Virginia Tech & A2 Labs, USA)"
+              "title": "Beyond Network Size: Factors Shaping Autonomous Cyber Agent Strategy",
+              "authors": "Kenechukwu Nwodo, Justin Van Roy, Dziyana Hnedzko and Angelos Stavrou",
+              "affiliation": "Virginia Tech & A2 Labs, USA",
+              "presenter": "Kenechukwu Nwodo"
             },
             {
               "id": "2967",
-              "text": "What Doesn’t Transfer: Generalization-Aware Auditing of Sensitive-Condition Inference from Sanitized LLM-Agent Telemetry, Aditya Jain, Anmol Pandey, Liang Chen and Carsten Maple (University of Warwick & University of Hertfordshire, UK)"
+              "title": "What Doesn’t Transfer: Generalization-Aware Auditing of Sensitive-Condition Inference from Sanitized LLM-Agent Telemetry",
+              "authors": "Aditya Jain, Anmol Pandey, Liang Chen and Carsten Maple",
+              "affiliation": "University of Warwick & University of Hertfordshire, UK",
+              "presenter": "Aditya Jain"
             }
           ],
           "chair": "SequoIA Cluster",
@@ -270,15 +333,24 @@
           "papers": [
             {
               "id": "2359",
-              "text": "TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals, Hamza Aguelal and Paolo Palmieri (University College Cork, Ireland)"
+              "title": "TRACE-ECG: Transfer-Based Re-Identification Attack on Cross-Dataset ECG Signals",
+              "authors": "Hamza Aguelal and Paolo Palmieri",
+              "affiliation": "University College Cork, Ireland",
+              "presenter": "Hamza Aguelal"
             },
             {
               "id": "6432",
-              "text": "You Can't Spot a Deepfake—And Neither Can Your Brain Nor Eyes: A Neurophysiological Framework for Deepfake Exploitation of Cognitive Engagement and Implicit Visual Evaluation, Cagri Arisoy, Md Imanul Huq, Amy Hays and Nitesh Saxena (Bozok University, Turkey; Texas A&M University, USA)"
+              "title": "You Can't Spot a Deepfake—And Neither Can Your Brain Nor Eyes: A Neurophysiological Framework for Deepfake Exploitation of Cognitive Engagement and Implicit Visual Evaluation",
+              "authors": "Cagri Arisoy, Md Imanul Huq, Amy Hays and Nitesh Saxena",
+              "affiliation": "Bozok University, Turkey; Texas A&M University, USA",
+              "presenter": "Md Imanul Huq"
             },
             {
               "id": "7496",
-              "text": "Culturally Adapted Transformer-Based Moderation for Indigenous Communities, Chaimaa Oulmalme (Université du Québec à Chicoutimi, Canada)"
+              "title": "Botochtone: Culturally Adapted Transformer-Based Moderation for Indigenous Communities",
+              "authors": "Chaimaa Oulmalme",
+              "affiliation": "Université du Québec à Chicoutimi, Canada",
+              "presenter": "Chaimaa Oulmalme"
             }
           ],
           "chair": "Gouenou Coatrieux (IMT Atlantique, France)",
@@ -330,19 +402,31 @@
           "papers": [
             {
               "id": "6452",
-              "text": "I-Tab - Irradiation of Tabular Data to Fight Against Illegal Data Use and Re-Use in AI, Mehdi Ben Ghali, Gouenou Coatrieux and Reda Bellafqira (Inserm & IMT Atlantique, France)"
+              "title": "I-Tab - Irradiation of Tabular Data to Fight Against Illegal Data Use and Re-Use in AI",
+              "authors": "Mehdi Ben Ghali, Gouenou Coatrieux and Reda Bellafqira",
+              "affiliation": "Inserm & IMT Atlantique, France",
+              "presenter": "Mehdi Ben Ghali"
             },
             {
               "id": "7164",
-              "text": "AI-augmented static analysis framework for secure C software, Amadéo Gilliéron, Nga Nguyen, Guillaume Guerard, Youssef Souissi and Ville Oskari Yli-Mäyry (De Vinci Research Center & Secure-IC, France)"
+              "title": "AI-augmented static analysis framework for secure C software",
+              "authors": "Amadéo Gilliéron, Nga Nguyen, Guillaume Guerard, Youssef Souissi and Ville Oskari Yli-Mäyry",
+              "affiliation": "De Vinci Research Center & Secure-IC, France",
+              "presenter": "Amadéo Gilliéron"
             },
             {
               "id": "9727",
-              "text": "Mitigating Feature Dilution in Image Manipulation Localization via Hybrid Architecture and Late Noise Fusion, Zexian Song, Shufen Niu, Manyou Ma, Xiaolin Zhou and Yichen Wei (Shenzhen Technology University, China)"
+              "title": "MNHA-Net: Mitigating Feature Dilution in Image Manipulation Localization via Hybrid Architecture and Late Noise Fusion",
+              "authors": "Zexian Song, Shufen Niu, Manyou Ma, Xiaolin Zhou and Yichen Wei",
+              "affiliation": "Shenzhen Technology University, China",
+              "presenter": "Yichen Wei"
             },
             {
               "id": "8412",
-              "text": "Collusion-Resilient Privacy-Preserving Sensor Fusion with Byzantine-Robust Participation, Chao Yin, Haihong Tian, Zheng Yang, Haibin Zhang, Fabio Massacci and Chenglu Jin (Southwest University, China; Vrije University Amsterdam & Centrum Wiskunde & Informatica, The Netherlands)"
+              "title": "CRSF: Collusion-Resilient Privacy-Preserving Sensor Fusion with Byzantine-Robust Participation",
+              "authors": "Chao Yin, Haihong Tian, Zheng Yang, Haibin Zhang, Fabio Massacci and Chenglu Jin",
+              "affiliation": "Southwest University, China; Vrije University Amsterdam & Centrum Wiskunde & Informatica, The Netherlands",
+              "presenter": "Chenglu Jin"
             }
           ],
           "chair": "SequoIA Cluster",
@@ -357,19 +441,31 @@
           "papers": [
             {
               "id": "1040",
-              "text": "How Transfer Learning Can Help Remote Far Field EM Side-Channel Attacks, Huanyu Wang, Minkang Lu, Bijia Cao and Junnian Wang (Hunan University of Science and Technology, China)"
+              "title": "How Transfer Learning Can Help Remote Far Field EM Side-Channel Attacks",
+              "authors": "Huanyu Wang, Minkang Lu, Bijia Cao and Junnian Wang",
+              "affiliation": "Hunan University of Science and Technology, China",
+              "presenter": "Huanyu Wang"
             },
             {
               "id": "9566",
-              "text": "Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot, Suphannee Sivakorn and Samantha Gottlieb (Bloomberg, USA)"
+              "title": "Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot",
+              "authors": "Suphannee Sivakorn and Samantha Gottlieb",
+              "affiliation": "Bloomberg, USA",
+              "presenter": "Suphannee Sivakorn"
             },
             {
               "id": "7358",
-              "text": "Parallelized Authenticated Encryption with Tag Combiners, Christoph Dobraunig and Charlotte Lefevre (IRISA, France; Intel Labs, USA)"
+              "title": "Parallelized Authenticated Encryption with Tag Combiners",
+              "authors": "Christoph Dobraunig and Charlotte Lefevre",
+              "affiliation": "IRISA, France; Intel Labs, USA",
+              "presenter": "Charlotte Lefevre"
             },
             {
               "id": "5796",
-              "text": "Walsh LUT Evaluation on Lazy Bits for CKKS AES Transciphering, Rostin Shokri and Nektarios Georgios Tsoutsos (University of Delaware, USA)"
+              "title": "Walsh LUT Evaluation on Lazy Bits for CKKS AES Transciphering",
+              "authors": "Rostin Shokri and Nektarios Georgios Tsoutsos",
+              "affiliation": "University of Delaware, USA",
+              "presenter": "Rostin Shokri"
             }
           ],
           "chair": "Diego F. Aranha (Aarhus University, Denmark)",
@@ -390,19 +486,31 @@
           "papers": [
             {
               "id": "2264",
-              "text": "Solving the Identity-Privacy Paradox: How to Identify Friend or Foe Without Self-Disclosure? Ema Sujster, Konrad Wrona and Evangelia Anna Markatou (TU Delft and NATO Communications and Information Agency, The Netherlands)"
+              "title": "Solving the Identity-Privacy Paradox: How to Identify Friend or Foe Without Self-Disclosure?",
+              "authors": "Ema Sujster, Konrad Wrona and Evangelia Anna Markatou",
+              "affiliation": "TU Delft and NATO Communications and Information Agency, The Netherlands",
+              "presenter": "Ema Sujster"
             },
             {
               "id": "5539",
-              "text": "A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network, Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu (Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China)"
+              "title": "PABV-STIN: A Proxy-Authorization-Based Batch Verification Protocol for Satellite-Terrestrial Integrated Network",
+              "authors": "Xin Qi, Caixia Liu, Yuzheng Liu, Yulu Gao and Yixuan Wu",
+              "affiliation": "Systems Engineering Institute, Harbin Engineering University, and Northwestern Polytechnical University, China",
+              "presenter": "Xin Qi"
             },
             {
               "id": "7112",
-              "text": "Credential-Conditioned Latent Recovery for Wireless Image Semantic Transmission, Sidong Kang, Shixian Chen, Shengliang Wu, Hongtao Wang, Ke Hu and Xin He (AnHui Normal University, China)"
+              "title": "Credential-Conditioned Latent Recovery for Wireless Image Semantic Transmission",
+              "authors": "Sidong Kang, Shixian Chen, Shengliang Wu, Hongtao Wang, Ke Hu and Xin He",
+              "affiliation": "AnHui Normal University, China",
+              "presenter": "Ke Hu"
             },
             {
               "id": "2743",
-              "text": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE, Julien Cam (Groupe Kudelski & Université de Rennes, France)"
+              "title": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE",
+              "authors": "Julien Cam",
+              "affiliation": "Groupe Kudelski & Université de Rennes, France",
+              "presenter": "Julien Cam"
             }
           ],
           "chair": "TBC",

@@ -1,0 +1,10 @@
+{{- /* Lists every paper of data/prog.json, in program order. */ -}}
+<ul class="paper-list">
+  {{- range site.Data.prog.days }}
+  {{- range .events }}
+  {{- range .papers }}
+  <li class="paper">{{ partial "paper.html" . }}</li>
+  {{- end }}
+  {{- end }}
+  {{- end }}
+</ul>

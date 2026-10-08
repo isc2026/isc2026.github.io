@@ -145,13 +145,54 @@
 	margin: .4rem 0;
 }
 
-.program-items__time,
-.program-paper-id {
+.program-items__time {
 	font-weight: 700;
 }
 
 .program-items__speaker {
 	display: block;
+}
+
+.program-papers li.paper {
+	margin: .9rem 0;
+}
+
+.paper {
+	line-height: 1.4;
+}
+
+.paper__title,
+.paper__details,
+.paper__authors,
+.paper__affiliation {
+	display: block;
+}
+
+.paper__title,
+.content a.paper__title {
+	font-style: italic;
+	font-weight: 600;
+}
+
+.paper__details {
+	margin-top: .5rem;
+}
+
+.paper__affiliation {
+	color: #666;
+	font-size: .9em;
+}
+
+.content .paper-list {
+	margin: 0;
+	list-style: none;
+	border-top: 1px solid #d8e0e8;
+}
+
+.content .paper-list .paper {
+	margin: 0;
+	padding: .9rem 0;
+	border-bottom: 1px solid #d8e0e8;
 }
 
 @media screen and (max-width: 600px) {

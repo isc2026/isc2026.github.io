@@ -27,7 +27,7 @@
           {{- with .papers }}
           <ol class="program-papers">
             {{- range . }}
-            <li><span class="program-paper-id">#{{ .id }}</span> {{ .text }}</li>
+            <li class="paper">{{ partial "paper.html" . }}</li>
             {{- end }}
           </ol>
           {{- end }}

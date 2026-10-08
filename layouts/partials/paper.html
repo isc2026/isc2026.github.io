@@ -1,0 +1,15 @@
+{{- /* Renders one paper from data/prog.json: title (linked to its PDF when present), authors with the presenter underlined, affiliation. */ -}}
+{{- $authors := htmlEscape .authors }}
+{{- with .presenter }}{{ $authors = replace $authors (htmlEscape .) (printf "<u>%s</u>" (htmlEscape .)) 1 }}{{ end }}
+{{- $pdf := printf "papers/paper_%s.pdf" .id }}
+{{- if fileExists (printf "static/%s" $pdf) }}
+<a class="paper__title" href="{{ $pdf | relURL }}">{{ .title }}</a>
+{{- else }}
+<span class="paper__title">{{ .title }}</span>
+{{- end }}
+<span class="paper__details">
+  <span class="paper__authors">{{ $authors | safeHTML }}</span>
+  {{- with .affiliation }}
+  <span class="paper__affiliation">{{ . }}</span>
+  {{- end }}
+</span>
