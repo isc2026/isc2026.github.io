@@ -38,6 +38,9 @@ Its work is divided into five main areas of responsibility: defending, knowing, 
   </a>
 </div>
 
+ HP Inc. is a global technology leader redefining the future of work through innovation in devices, software, services and solutions. Operating in more than 180 countries, HP helps organisations and individuals achieve more through secure, sustainable, and AI-powered technology. 
+
+The HP Security Lab is HP's advanced cybersecurity research organisation, focused on developing new technologies to make endpoint devices, infrastructure and digital services more secure and resilient. The Lab conducts research across such areas as hardware and firmware security, supply chain security, AI security, zero-trust architectures, and design for cyber-resilience.
 
 ## Silver sponsors
 
