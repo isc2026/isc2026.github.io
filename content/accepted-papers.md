@@ -7,6 +7,6 @@ parent = 'program'
 weight = 1
 +++
 
-Presenters are underlined. Click a title to open the paper (PDF).
+Presenters are underlined. Click a title to open the pre-print version of each paper (PDF).
 
 {{< accepted-papers >}}
