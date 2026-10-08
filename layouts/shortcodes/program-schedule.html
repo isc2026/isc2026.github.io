@@ -20,7 +20,7 @@
           {{- with .items }}
           <ul class="program-items">
             {{- range . }}
-            <li><span class="program-items__time">{{ .start }}–{{ .end }}</span> <strong>{{ .title }}</strong>{{ with .speaker }}<span class="program-items__speaker">{{ . }}</span>{{ end }}</li>
+            <li><span class="program-items__time">{{ .start }}–{{ .end }}</span> <strong>{{ .title }}</strong>{{ with .speaker }}<span class="program-items__speaker">{{ . }}</span>{{ end }}{{ with .talk }}<span class="paper program-items__talk">{{ partial "paper.html" . }}</span>{{ end }}</li>
             {{- end }}
           </ul>
           {{- end }}

@@ -1,9 +1,16 @@
-{{- /* Renders one paper from data/prog.json: title (linked to its PDF when present), authors with the presenter underlined, affiliation. */ -}}
-{{- $authors := htmlEscape .authors }}
+{{- /* Renders one talk from data/prog.json: title, authors (presenter underlined) or speaker, affiliation.
+       The title links to .link when set (keynotes), otherwise to static/papers/paper_<id>.pdf when present. */ -}}
+{{- $authors := htmlEscape (or .authors .speaker) }}
 {{- with .presenter }}{{ $authors = replace $authors (htmlEscape .) (printf "<u>%s</u>" (htmlEscape .)) 1 }}{{ end }}
+{{- $href := "" }}
+{{- with .link }}
+{{- $href = relURL . }}
+{{- else }}
 {{- $pdf := printf "papers/paper_%s.pdf" .id }}
-{{- if fileExists (printf "static/%s" $pdf) }}
-<a class="paper__title" href="{{ $pdf | relURL }}">{{ .title }}</a>
+{{- if and .id (fileExists (printf "static/%s" $pdf)) }}{{ $href = relURL $pdf }}{{ end }}
+{{- end }}
+{{- with $href }}
+<a class="paper__title" href="{{ . }}">{{ $.title }}</a>
 {{- else }}
 <span class="paper__title">{{ .title }}</span>
 {{- end }}

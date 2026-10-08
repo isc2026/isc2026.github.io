@@ -26,8 +26,13 @@
             {
               "start": "09:30",
               "end": "10:30",
-              "title": "Invited Keynote: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty",
-              "speaker": "Shweta Shinde (ETH Zurich, Switzerland)"
+              "title": "Invited Keynote",
+              "talk": {
+                "title": "From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty",
+                "speaker": "Shweta Shinde",
+                "affiliation": "ETH Zurich, Switzerland",
+                "link": "/keynote/#shweta-shinde"
+              }
             }
           ]
         },
@@ -281,8 +286,13 @@
             {
               "start": "09:00",
               "end": "10:00",
-              "title": "Invited Keynote: LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing",
-              "speaker": "Diego F. Aranha (Aarhus University, Denmark)"
+              "title": "Invited Keynote",
+              "talk": {
+                "title": "LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing",
+                "speaker": "Diego F. Aranha",
+                "affiliation": "Aarhus University, Denmark",
+                "link": "/keynote/#diego-aranha"
+              }
             }
           ]
         },

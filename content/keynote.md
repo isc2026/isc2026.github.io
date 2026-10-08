@@ -5,7 +5,7 @@ menu = 'main'
 weight = 6
 +++
 
-### Title: LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing
+### Title: LINE-Break: Cryptanalysis and Reverse Engineering of Letter Sealing {#diego-aranha}
 
 **Speaker**: [Diego F. Aranha](https://dfaranha.github.io/) (Aarhus University)
 {{< figure src="/img/diego_f_arannha.jpg" class="left" width="200">}}
@@ -27,7 +27,7 @@ He has been lucky to receive the Google Latin America Research Award for privacy
 
 ---
 
-### Title: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty
+### Title: From Smartphones to Cloud: Trustworthy Foundations for Digital Sovereignty {#shweta-shinde}
 
 **Speaker**: [Shweta Shinde](https://www.shwetashinde.org/) (ETH Zurich)
 

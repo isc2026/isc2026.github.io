@@ -157,6 +157,11 @@
 	margin: .9rem 0;
 }
 
+.program-items__talk {
+	display: block;
+	margin-top: .3rem;
+}
+
 .paper {
 	line-height: 1.4;
 }
