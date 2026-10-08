@@ -8,6 +8,6 @@ parent = 'program'
 weight = 3
 +++
 
-The program is tentative and may change. All times are local to Rennes, France.
+The program is tentative and may change. All times are local to Rennes, France. Presenters are underlined. Click a title to open the pre-print version of each paper (PDF).
 
 {{< program-schedule >}}
