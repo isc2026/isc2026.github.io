@@ -6,8 +6,6 @@ weight = 5
 +++
 
 **Authors**: **At least one author from each accepted paper must complete a registration for the conference** and is expected to present it in person at the conference.
-If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact the local organizers (local-isc2026@inria.fr) to reach a solution.
-**Warning**: If you fail to complete the registration or do not present the paper in person without an approved solution, your paper may not be included in the conference program or the final conference proceedings.
 
 **Students**:
 The participants with a student registration will be required to prove their status at the registration desk.
