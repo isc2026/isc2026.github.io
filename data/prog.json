@@ -515,6 +515,14 @@
               "affiliation": "AnHui Normal University, China",
               "presenter": "Ke Hu"
             },
+	    {
+              "id": "3967",
+              "title": "Stress Testing Social Media Authentication Ceremonies of End-to-End Encrypted Messaging with Ephemeral Fake Accounts",
+              "authors": "Mashari Alatawi, Md Shahidur Rahaman and Nitesh Saxena",
+              "affiliation": "King Saud University, Saudi Arabia; Texas A&M University, USA",
+              "presenter": "Md Shahidur Rahaman"
+            },
+
             {
               "id": "2743",
               "title": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE",
