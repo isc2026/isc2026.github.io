@@ -155,7 +155,7 @@
               "id": "2574",
               "title": "Differential-based Attacks on Round-reduced BAKSHEESH",
               "authors": "Yong Liu, Siwei Sun, Zejun Xiang, Rui Xu, Xiutao Feng and Xiangyong Zeng",
-              "affiliation": "Chinese Academy of Sciences & Hubei University, China",
+              "affiliation": "University Chinese Academy of Sciences & Hubei University, China",
               "presenter": "Yong Liu"
             },
             {
@@ -197,18 +197,18 @@
               "presenter": "Alexandre Azor"
             },
             {
-              "id": "5104",
-              "title": "FoRGe: Feedback-Oriented Rule Generation for Security Log Detection",
-              "authors": "Aidan Wen, Karen Shieh, Jingzhi Jiang, Andy Zhang, Raghad Alkhudair, Basel Alomair and David Wagner",
-              "affiliation": "KACST, Saudi Arabia; UC Berkeley, USA",
-              "presenter": "Aidan Wen"
-            },
-            {
               "id": "5773",
               "title": "Multi-Period Traffic Folding for Efficient IoT Intrusion Detection",
               "authors": "Guangwei Cai",
               "affiliation": "Zhengzhou University, China",
               "presenter": "Guangwei Cai"
+            },
+	    {
+              "id": "5104",
+              "title": "FoRGe: Feedback-Oriented Rule Generation for Security Log Detection",
+              "authors": "Aidan Wen, Karen Shieh, Jingzhi Jiang, Andy Zhang, Raghad Alkhudair, Basel Alomair and David Wagner",
+              "affiliation": "KACST, Saudi Arabia; UC Berkeley, USA",
+              "presenter": "Aidan Wen"
             }
           ],
           "chair": "Olivier Levillain (Institut Polytechnique de Paris, France)",
