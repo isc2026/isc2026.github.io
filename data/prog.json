@@ -133,12 +133,12 @@
               "affiliation": "Université de Bretagne-Sud & DGA MI, France",
               "presenter": "Kévin Queneherve"
             },
-            {
-              "id": "9642",
-              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication",
-              "authors": "Chaochao Zhang and Xingbin Wang",
-              "affiliation": "Ningbo University of Technology & Tianjin University, China",
-              "presenter": "Chaochao Zhang"
+	    {
+              "id": "2743",
+              "title": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE",
+              "authors": "Julien Cam",
+              "affiliation": "Groupe Kudelski & Université de Rennes, France",
+              "presenter": "Julien Cam"
             }
           ],
           "chair": "Shweta Shinde (ETH Zurich, Switzerland)",
@@ -522,13 +522,12 @@
               "affiliation": "King Saud University, Saudi Arabia; Texas A&M University, USA",
               "presenter": "Md Shahidur Rahaman"
             },
-
             {
-              "id": "2743",
-              "title": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE",
-              "authors": "Julien Cam",
-              "affiliation": "Groupe Kudelski & Université de Rennes, France",
-              "presenter": "Julien Cam"
+              "id": "9642",
+              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication",
+              "authors": "Chaochao Zhang and Xingbin Wang",
+              "affiliation": "Ningbo University of Technology & Tianjin University, China",
+              "presenter": "Chaochao Zhang"
             }
           ],
           "chair": "Thomas Rokicki (CentraleSupélec, France)",
