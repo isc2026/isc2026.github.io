@@ -524,7 +524,7 @@
             },
             {
               "id": "9642",
-              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication <!--CANCELLED -->",
+              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication",
               "authors": "Chaochao Zhang and Xingbin Wang",
               "affiliation": "Ningbo University of Technology & Tianjin University, China",
               "presenter": "Chaochao Zhang"
