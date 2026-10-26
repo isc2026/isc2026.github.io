@@ -350,7 +350,7 @@
             },
             {
               "id": "6432",
-              "title": "You Can't Spot a Deepfake—And Neither Can Your Brain Nor Eyes: A Neurophysiological Framework for Deepfake Exploitation of Cognitive Engagement and Implicit Visual Evaluation",
+              "title": "You Can't Spot a Deepfake—And Neither Can Your Brain Nor Eyes: A Neurophysiological Framework for Deepfake Exploitation of Cognitive Engagement and Implicit Visual Evaluation **",
               "authors": "Cagri Arisoy, Md Imanul Huq, Amy Hays and Nitesh Saxena",
               "affiliation": "Bozok University, Turkey; Texas A&M University, USA",
               "presenter": "Md Imanul Huq"
@@ -517,14 +517,14 @@
             },
 	    {
               "id": "3967",
-              "title": "Stress Testing Social Media Authentication Ceremonies of End-to-End Encrypted Messaging with Ephemeral Fake Accounts",
+              "title": "Stress Testing Social Media Authentication Ceremonies of End-to-End Encrypted Messaging with Ephemeral Fake Accounts **",
               "authors": "Mashari Alatawi, Md Shahidur Rahaman and Nitesh Saxena",
               "affiliation": "King Saud University, Saudi Arabia; Texas A&M University, USA",
               "presenter": "Md Shahidur Rahaman"
             },
             {
               "id": "9642",
-              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication",
+              "title": "gPAC: Enforcing Forward-Edge Control-Flow Integrity on GPUs via Pointer Authentication **",
               "authors": "Chaochao Zhang and Xingbin Wang",
               "affiliation": "Ningbo University of Technology & Tianjin University, China",
               "presenter": "Chaochao Zhang"
